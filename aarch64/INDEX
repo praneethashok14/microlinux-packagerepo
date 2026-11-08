@@ -69,6 +69,7 @@ make|4.4.1|make-4.4.1.mlp|017d92213a0f30af1650303c8e14600dd9d0887a0665302c6882a5
 mc|4.8.33|mc-4.8.33.mlp|65d675934020bb0460c5fa591aab72bb92be86f4496f57c6109f806ce4d9654d|593920|GNU Midnight Commander is a visual file manager, licensed under GNU General Public License||app
 mdadm|4.3|mdadm-4.3.mlp|61e3d148f70528addbb74e987b4bfcd78a5cb47552c1a29a9c9c43fc2d128cd1|339968|Utility for managing Linux Software RAID arrays||app
 mesa3d-demos|9.0.0|mesa3d-demos-9.0.0.mlp|a7f945b133996e42a7c1a6d798edffe925658a55dba309228372f8d8a955eb18|1323008|OpenGL demos from the Mesa 3D project|libglew libglu|app
+ml-software|1.0|ml-software-1.0.mlp|ecd35eb170ad91e9db8547e5abd5c12bda993e611183add773d5ff89ac2da8c0|12288|Graphical front end for mlpkg: browse the package repository by category, search, install, remove an||app
 mpdecimal|4.0.0|mpdecimal-4.0.0.mlp|09ade57967459dc043182cc8a8a79962e84306ac1e32c9b64f99f2f9ebc5949f|61440|mpdecimal is a package for correctly-rounded arbitrary precision decimal floating point arithmetic||lib
 mpfr|4.1.1|mpfr-4.1.1.mlp|fa8235f18cba21a6b089b20f71a7964803d3b20f1b19aacd03efde32a5365cb9|159744|C library for multiple-precision floating-point computations with exact rounding|gmp|lib
 mpg123|1.33.4|mpg123-1.33.4.mlp|e383b7f7a7f3253756439cb8e661c678c064e53c8fe1fd95c8261f1dff3c0390|241664|Fast, free and portable MPEG audio player for Unix|sdl|app
