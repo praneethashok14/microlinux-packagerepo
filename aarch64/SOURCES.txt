@@ -1,0 +1,140 @@
+MicroLinux package repository: package, version, license, upstream source.
+Built with Buildroot 2026.02.3; Buildroot's patches for each package are in
+https://gitlab.com/buildroot.org/buildroot/-/tree/2026.02.3/package
+
+alsa-utils 1.2.15.2 [GPL-2.0] https://www.alsa-project.org/files/pub/utils/alsa-utils-1.2.15.2.tar.bz2
+bc 1.08.2 [GPL-2.0+, LGPL-2.1+] https://ftpmirror.gnu.org/bc/bc-1.08.2.tar.gz
+bind 9.18.49 [MPL-2.0] https://ftp.isc.org/isc/bind9/9.18.49/bind-9.18.49.tar.xz
+btrfs-progs 6.10 [GPL-2.0, LGPL-2.1+ (libbtrfsutil)] https://cdn.kernel.org/pub/linux/kernel/people/kdave/btrfs-progs/btrfs-progs-v6.10.tar.xz
+cryptsetup 2.8.4 [Apache-2.0, CC-BY-SA-4.0, GPL-2.0+ (programs), LGPL-2.1+ (library)] https://cdn.kernel.org/pub/linux/utils/cryptsetup/v2.8/cryptsetup-2.8.4.tar.xz
+ddrescue 1.30 [GPL-2.0+] https://ftpmirror.gnu.org/ddrescue/ddrescue-1.30.tar.lz
+diffutils 3.12 [GPL-3.0+] https://ftpmirror.gnu.org/diffutils/diffutils-3.12.tar.xz
+dillo 3.2.0 [GPL-3.0+] https://github.com/dillo-browser/dillo/releases/download/v3.2.0/dillo-3.2.0.tar.bz2
+dropbear 2026.91 [MIT, BSD-2-Clause, Public domain , Unlicense, WTFPL] https://matt.ucc.asn.au/dropbear/releases/dropbear-2026.91.tar.bz2
+ed 1.22.3 [GPL-2.0+] https://ftpmirror.gnu.org/ed/ed-1.22.3.tar.lz
+exfatprogs 1.2.9 [GPL-2.0+] https://github.com/exfatprogs/exfatprogs/releases/download/1.2.9/exfatprogs-1.2.9.tar.xz
+feh 3.11.2 [MIT] https://feh.finalrewind.org/feh-3.11.2.tar.bz2
+ffmpeg 6.1.5 [LGPL-2.1+, libjpeg license and GPL-2.0+] https://ffmpeg.org/releases/ffmpeg-6.1.5.tar.xz
+flex 2.6.4 [FLEX] https://github.com/westes/flex/files/981163/flex-2.6.4.tar.gz
+fltk 1.3.7 [LGPL-2.0 with exceptions] http://fltk.org/pub/fltk/1.3.7/fltk-1.3.7-source.tar.bz2
+gdb 15.2 [GPL-2.0+, LGPL-2.0+, GPL-3.0+, LGPL-3.0+] https://ftpmirror.gnu.org/gdb/gdb-15.2.tar.xz
+git 2.53.0 [GPL-2.0, LGPL-2.1+] https://cdn.kernel.org/pub/software/scm/git/git-2.53.0.tar.xz
+gmp 6.3.0 [LGPL-3.0+ or GPL-2.0+] https://ftpmirror.gnu.org/gmp/gmp-6.3.0.tar.xz
+gnuchess 6.3.0 [GPL-3.0+] https://ftpmirror.gnu.org/chess/gnuchess-6.3.0.tar.gz
+gnupg2 2.5.20 [GPL-3.0+] https://gnupg.org/ftp/gcrypt/gnupg/gnupg-2.5.20.tar.bz2
+gnuplot 6.0.4 [gnuplot license (open source)] http://downloads.sourceforge.net/project/gnuplot/gnuplot/6.0.4/gnuplot-6.0.4.tar.gz
+gptfdisk 1.0.10 [GPL-2.0+] http://downloads.sourceforge.net/sourceforge/gptfdisk/gptfdisk-1.0.10.tar.gz
+gumbo-parser 0.13.2 [Apache-2.0] https://codeberg.org/gumbo-parser/gumbo-parser/archive/0.13.2.tar.gz
+hdparm 9.65 [BSD-Style] https://downloads.sourceforge.net/project/hdparm/hdparm/hdparm-9.65.tar.gz
+hwdata 0.403 [GPL-2.0+, BSD-3-Clause, XFree86 1.0] https://github.com/vcrhonek/hwdata/archive/v0.403/hwdata-0.403.tar.gz
+imagemagick 7.1.2-23 [Apache-2.0] https://github.com/ImageMagick/ImageMagick/archive/7.1.2-23/imagemagick-7.1.2-23.tar.gz
+imlib2 1.12.5 [Imlib2] http://downloads.sourceforge.net/project/enlightenment/imlib2-src/1.12.5/imlib2-1.12.5.tar.xz
+inih 62 [BSD-3-Clause] https://github.com/benhoyt/inih/archive/r62/inih-62.tar.gz
+iotop 0.6 [GPL-2.0+] http://guichaz.free.fr/iotop/files/iotop-0.6.tar.gz
+iperf3 3.20 [BSD-3-Clause, BSD-2-Clause, MIT] https://downloads.es.net/pub/iperf/iperf-3.20.tar.gz
+irssi 1.4.5 [GPL-2.0+] https://codeberg.org/irssi/irssi/releases/download/1.4.5/irssi-1.4.5.tar.xz
+jbig2dec 0.20 [AGPL-3.0+] https://github.com/ArtifexSoftware/jbig2dec/releases/download/0.20/jbig2dec-0.20.tar.gz
+joe 4.6 [GPL-2.0+] http://downloads.sourceforge.net/project/joe-editor/JOE%20sources/joe-4.6/joe-4.6.tar.gz
+jq 1.8.1 [MIT (code), ICU (decNumber), CC-BY-3.0 (documentation), BSD-2-Clause (strptime)] https://github.com/jqlang/jq/releases/download/jq-1.8.1/jq-1.8.1.tar.gz
+json-c 0.18 [MIT] https://s3.amazonaws.com/json-c_releases/releases/json-c-0.18.tar.gz
+lbreakout2 2.6.5 [GPL-2.0+] https://downloads.sourceforge.net/lgames/lbreakout2/2.6/lbreakout2-2.6.5.tar.gz
+lcms2 2.19 [MIT] https://downloads.sourceforge.net/project/lcms/lcms/2.19/lcms2-2.19.tar.gz
+lftp 4.9.2 [GPL-3.0+] http://lftp.yar.ru/ftp/lftp-4.9.2.tar.xz
+libaio 0.3.113 [LGPL-2.1+] https://releases.pagure.org/libaio/libaio-0.3.113.tar.gz
+libargon2 20190702 [CC0-1.0 or Apache-2.0] https://github.com/P-H-C/phc-winner-argon2/archive/20190702/libargon2-20190702.tar.gz
+libass 0.17.4 [ISC] https://github.com/libass/libass/releases/download/0.17.4/libass-0.17.4.tar.xz
+libassuan 3.0.2 [LGPL-2.1+ (library), GPL-3.0 (tests, doc)] https://gnupg.org/ftp/gcrypt/libassuan/libassuan-3.0.2.tar.bz2
+libdeflate 1.25 [MIT] https://github.com/ebiggers/libdeflate/releases/download/v1.25/libdeflate-1.25.tar.gz
+libdisplay-info 0.3.0 [MIT] https://gitlab.freedesktop.org/emersion/libdisplay-info/-/releases/0.3.0/downloads/libdisplay-info-0.3.0.tar.xz
+libevent 2.1.12 [BSD-3-Clause, OpenBSD] https://github.com/libevent/libevent/releases/download/release-2.1.12-stable/libevent-2.1.12-stable.tar.gz
+libgcrypt 1.12.0 [LGPL-2.1+] https://gnupg.org/ftp/gcrypt/libgcrypt/libgcrypt-1.12.0.tar.bz2
+libglew 2.2.0 [BSD-3-Clause, MIT] https://github.com/nigels-com/glew/releases/download/glew-2.2.0/glew-2.2.0.tgz
+libglu 9.0.3 [SGI-B-2.0] https://mesa.freedesktop.org/archive/glu/glu-9.0.3.tar.xz
+libgpg-error 1.61 [GPL-2.0+, LGPL-2.1+] https://www.gnupg.org/ftp/gcrypt/libgpg-error/libgpg-error-1.61.tar.bz2
+libksba 1.6.7 [LGPL-3.0+ or GPL-2.0+ (library, headers), GPL-3.0+ (manual, tests, build system)] https://gnupg.org/ftp/gcrypt/libksba/libksba-1.6.7.tar.bz2
+liblinear 2.49 [BSD-3-Clause] https://www.csie.ntu.edu.tw/~cjlin/liblinear/oldfiles/liblinear-2.49.tar.gz
+libminiupnpc 2.3.3 [BSD-3-Clause] http://miniupnp.free.fr/files/miniupnpc-2.3.3.tar.gz
+libnatpmp 20230423 [BSD-3-Clause] http://miniupnp.free.fr/files/libnatpmp-20230423.tar.gz
+libnpth 1.8 [LGPL-2.0+] https://www.gnupg.org/ftp/gcrypt/npth/npth-1.8.tar.bz2
+libnvme 1.16.1 [LGPL-2.1] https://github.com/linux-nvme/libnvme/archive/v1.16.1/libnvme-1.16.1.tar.gz
+libpcap 1.10.6 [BSD-3-Clause] https://www.tcpdump.org/release/libpcap-1.10.6.tar.gz
+libplacebo v7.351.0 [LGPL-2.1+] https://code.videolan.org/videolan/libplacebo.git/libplacebo-v7.351.0-git4.tar.gz
+libtorrent 0.15.3 [GPL-2.0] https://github.com/rakshasa/rtorrent/releases/download/v0.15.3/libtorrent-0.15.3.tar.gz
+liburcu 0.15.5 [LGPL-2.1+ (library), MIT-like (few source files listed in LICENSE), GPL-2.0+ (test), GPL-3.0 (few *.m4 files)] http://lttng.org/files/urcu/userspace-rcu-0.15.5.tar.bz2
+libutp c95738b1a6644b919e5b64d3ea9736cfc5894e0b [MIT] https://github.com/transmission/libutp/archive/c95738b1a6644b919e5b64d3ea9736cfc5894e0b/libutp-c95738b1a6644b919e5b64d3ea9736cfc5894e0b.tar.gz
+libuv 1.51.0 [BSD-2-Clause, BSD-3-Clause, ISC, MIT] https://dist.libuv.org/dist/v1.51.0/libuv-v1.51.0-dist.tar.gz
+lighttpd 1.4.82 [BSD-3-Clause] http://download.lighttpd.net/lighttpd/releases-1.4.x/lighttpd-1.4.82.tar.xz
+lsof 4.99.4 [lsof license] https://github.com/lsof-org/lsof/archive/4.99.4/lsof-4.99.4.tar.gz
+ltrace 0.8.1 [GPL-2.0] https://gitlab.com/cespedes/ltrace/-/archive/0.8.1/ltrace-0.8.1.tar.gz
+ltris 1.3.2 [GPL-2.0+] http://downloads.sourceforge.net/lgames/ltris/ltris-1.3.2.tar.gz
+lvm2 2.03.31 [GPL-2.0, LGPL-2.1] https://sourceware.org/ftp/lvm2/LVM2.2.03.31.tgz
+lynx 2.9.2 [GPL-2.0] https://invisible-mirror.net/archives/lynx/tarballs/lynx2.9.2.tar.bz2
+make 4.4.1 [GPL-3.0+] https://ftpmirror.gnu.org/make/make-4.4.1.tar.lz
+mc 4.8.33 [GPL-3.0+] http://ftp.midnight-commander.org/mc-4.8.33.tar.xz
+mdadm 4.3 [GPL-2.0+] https://cdn.kernel.org/pub/linux/utils/raid/mdadm/mdadm-4.3.tar.xz
+mesa3d-demos 9.0.0 [MIT] https://archive.mesa3d.org/demos/mesa-demos-9.0.0.tar.xz
+mpdecimal 4.0.0 [BSD-2-Clause] http://www.bytereef.org/software/mpdecimal/releases/mpdecimal-4.0.0.tar.gz
+mpfr 4.1.1 [LGPL-3.0+] http://www.mpfr.org/mpfr-4.1.1/mpfr-4.1.1.tar.xz
+mpg123 1.33.4 [LGPL-2.1] https://downloads.sourceforge.net/project/mpg123/mpg123/1.33.4/mpg123-1.33.4.tar.bz2
+mpv 0.40.0 [GPL-2.0+] https://github.com/mpv-player/mpv/archive/v0.40.0/mpv-0.40.0.tar.gz
+mtr 0.95 [GPL-2.0] https://github.com/traviscross/mtr/archive/v0.95/mtr-0.95.tar.gz
+mupdf 1.23.9 [AGPL-3.0+] https://mupdf.com/downloads/archive/mupdf-1.23.9-source.tar.lz
+ncdu 1.22 [MIT] https://dev.yorhel.nl/download/ncdu-1.22.tar.gz
+neofetch 7.1.0 [MIT] https://github.com/dylanaraps/neofetch/archive/7.1.0/neofetch-7.1.0.tar.gz
+netcat-openbsd 1.234 [BSD-3-Clause] https://snapshot.debian.org/archive/debian/20251023T202923Z/pool/main/n/netcat-openbsd/netcat-openbsd_1.234-1.debian.tar.xz https://snapshot.debian.org/archive/debian/20251023T202923Z/pool/main/n/netcat-openbsd/netcat-openbsd_1.234.orig.tar.gz
+nginx 1.30.2 [BSD-2-Clause] https://nginx.org/download/nginx-1.30.2.tar.gz
+nmap 7.98 [nmap license] https://nmap.org/dist/nmap-7.98.tar.bz2
+nnn 5.1 [BSD-2-Clause] https://github.com/jarun/nnn/archive/v5.1/nnn-5.1.tar.gz
+ntfs-3g 2022.10.3 [GPL-2.0+, LGPL-2.0+] http://tuxera.com/opensource/ntfs-3g_ntfsprogs-2022.10.3.tgz
+nvme 2.15 [GPL-2.0+] https://github.com/linux-nvme/nvme-cli/archive/v2.15/nvme-2.15.tar.gz
+openjpeg 2.5.4 [BSD-2-Clause] https://github.com/uclouvain/openjpeg/archive/v2.5.4/openjpeg-2.5.4.tar.gz
+openvpn 2.6.20 [GPL-2.0] https://swupdate.openvpn.net/community/releases/openvpn-2.6.20.tar.gz
+p7zip 17.06 [LGPL-2.1+ with unRAR restriction] https://github.com/p7zip-project/p7zip/archive/v17.06/p7zip-17.06.tar.gz
+patch 2.7.6 [GPL-3.0+] https://ftpmirror.gnu.org/patch/patch-2.7.6.tar.xz
+perl 5.42.2 [Artistic or GPL-1.0+] https://www.cpan.org/src/5.0/perl-5.42.2.tar.xz https://github.com/arsv/perl-cross/releases/download/1.6.4/perl-cross-1.6.4.tar.gz
+php 8.5.7 [PHP-3.01] https://www.php.net/distributions/php-8.5.7.tar.xz
+popt 1.19 [MIT] http://ftp.rpm.org/popt/releases/popt-1.x/popt-1.19.tar.gz
+python-certifi 2026.4.22 [ISC (Python code), MPL-2.0 (cacert.pem)] https://files.pythonhosted.org/packages/25/ee/6caf7a40c36a1220410afe15a1cc64993a1f864871f698c0f93acb72842a/certifi-2026.4.22.tar.gz
+python-charset-normalizer 3.4.4 [MIT] https://files.pythonhosted.org/packages/13/69/33ddede1939fdd074bce5434295f38fae7136463422fe4fd3e0e89b98062/charset_normalizer-3.4.4.tar.gz
+python-idna 3.11 [BSD-3-Clause] https://files.pythonhosted.org/packages/6f/6d/0703ccc57f3a7233505399edb88de3cbd678da106337b9fcde432b65ed60/idna-3.11.tar.gz
+python-pip 25.3 [MIT] https://files.pythonhosted.org/packages/fe/6e/74a3f0179a4a73a53d66ce57fdb4de0080a8baa1de0063de206d6167acc2/pip-25.3.tar.gz
+python-requests 2.33.1 [Apache-2.0] https://files.pythonhosted.org/packages/5f/a4/98b9c7c6428a668bf7e42ebb7c79d576a1c3c1e3ae2d47e674b468388871/requests-2.33.1.tar.gz
+python-setuptools 80.9.0 [MIT] https://files.pythonhosted.org/packages/18/5d/3bf57dcd21979b887f014ea83c24ae194cfcd12b9e0fda66b957c69d1fca/setuptools-80.9.0.tar.gz
+python-urllib3 2.7.0 [MIT] https://files.pythonhosted.org/packages/53/0c/06f8b233b8fd13b9e5ee11424ef85419ba0d8ba0b3138bf360be2ff56953/urllib3-2.7.0.tar.gz
+python3 3.14.5 [Python-2.0, others] https://python.org/ftp/python/3.14.5/Python-3.14.5.tar.xz
+ranger 1.9.3 [GPL-3.0] https://ranger.github.io/ranger-1.9.3.tar.gz
+ripgrep 14.1.1 [MIT , vendored dependencies licenses probably not listed] https://github.com/burntsushi/ripgrep/archive/14.1.1/ripgrep-14.1.1-cargo4.tar.gz
+rsync 3.4.3 [GPL-3.0+ with exceptions] https://rsync.samba.org/ftp/rsync/src/rsync-3.4.3.tar.gz
+rtorrent 0.15.3 [GPL-2.0] https://github.com/rakshasa/rtorrent/releases/download/v0.15.3/rtorrent-0.15.3.tar.gz
+ruby 4.0.3 [Ruby or BSD-2-Clause, BSD-3-Clause, MIT, others] http://cache.ruby-lang.org/pub/ruby/4.0/ruby-4.0.3.tar.xz
+screen 5.0.1 [GPL-3.0+] https://ftpmirror.gnu.org/screen/screen-5.0.1.tar.gz
+sdl 1.2.15 [LGPL-2.1+] http://www.libsdl.org/release/SDL-1.2.15.tar.gz
+sdl_mixer d1725fcb7c4e987aeb7ecdc94cb8b6375b702170 [Zlib] https://github.com/libsdl-org/SDL_mixer/archive/d1725fcb7c4e987aeb7ecdc94cb8b6375b702170/sdl_mixer-d1725fcb7c4e987aeb7ecdc94cb8b6375b702170.tar.gz
+sdl_net 620b0ba7dd84a0fdbd4cc8ef1b2be1cc10f90ae3 [Zlib] https://github.com/libsdl-org/SDL_net/archive/620b0ba7dd84a0fdbd4cc8ef1b2be1cc10f90ae3/SDL_net-620b0ba7dd84a0fdbd4cc8ef1b2be1cc10f90ae3.tar.gz
+smartmontools 7.5 [GPL-2.0+] http://downloads.sourceforge.net/project/smartmontools/smartmontools/7.5/smartmontools-7.5.tar.gz
+socat 1.8.0.3 [GPL-2.0 with OpenSSL exception] http://www.dest-unreach.org/socat/download/socat-1.8.0.3.tar.bz2
+sqlite 3.51.3 [blessing] https://www.sqlite.org/2026/sqlite-autoconf-3510300.tar.gz
+sysstat 12.7.5 [GPL-2.0+] https://sysstat.github.io/sysstat-packages/sysstat-12.7.5.tar.xz
+tcl 8.6.15 [TCL] http://downloads.sourceforge.net/project/tcl/Tcl/8.6.15/tcl8.6.15-src.tar.gz
+tcpdump 4.99.5 [BSD-3-Clause] https://www.tcpdump.org/release/tcpdump-4.99.5.tar.gz
+tig 2.6.0 [GPL-2.0+] https://github.com/jonas/tig/releases/download/tig-2.6.0/tig-2.6.0.tar.gz
+tmux 3.6a [ISC] https://github.com/tmux/tmux/releases/download/3.6a/tmux-3.6a.tar.gz
+tor 0.4.9.9 [BSD-3-Clause] https://dist.torproject.org/tor-0.4.9.9.tar.gz
+transmission 4.1.0 [GPL-2.0 or GPL-3.0 with OpenSSL exception] https://github.com/transmission/transmission/releases/download/4.1.0/transmission-4.1.0.tar.xz
+unzip 6.0 [Info-ZIP] https://snapshot.debian.org/archive/debian/20250311T215724Z/pool/main/u/unzip/unzip_6.0.orig.tar.gz
+valgrind 3.26.0 [GPL-3.0+, GFDL-1.2] https://sourceware.org/pub/valgrind/valgrind-3.26.0.tar.bz2
+vim 9.1.2148 [Charityware] https://github.com/vim/vim/archive/v9.1.2148/vim-9.1.2148.tar.gz
+wget 1.25.0 [GPL-3.0+] https://ftpmirror.gnu.org/wget/wget-1.25.0.tar.lz
+wireguard-tools 1.0.20250521 [GPL-2.0] https://git.zx2c4.com/wireguard-tools/snapshot/wireguard-tools-1.0.20250521.tar.xz
+xapp_xcalc 1.1.2 [MIT] https://xorg.freedesktop.org/releases/individual/app/xcalc-1.1.2.tar.xz
+xapp_xclock 1.1.1 [MIT] https://xorg.freedesktop.org/archive/individual/app/xclock-1.1.1.tar.xz
+xapp_xedit 1.2.4 [MIT] https://xorg.freedesktop.org/archive/individual/app/xedit-1.2.4.tar.xz
+xapp_xev 1.2.6 [MIT] https://xorg.freedesktop.org/archive/individual/app/xev-1.2.6.tar.xz
+xapp_xeyes 1.3.1 [MIT] https://xorg.freedesktop.org/archive/individual/app/xeyes-1.3.1.tar.xz
+xapp_xkill 1.0.6 [MIT] https://xorg.freedesktop.org/archive/individual/app/xkill-1.0.6.tar.xz
+xapp_xload 1.2.0 [MIT] https://xorg.freedesktop.org/archive/individual/app/xload-1.2.0.tar.xz
+xapp_xmag 1.0.8 [MIT] https://xorg.freedesktop.org/archive/individual/app/xmag-1.0.8.tar.xz
+xfsprogs 6.11.0 [GPL-2.0, GPL-2.0+, LGPL-2.1 (libhandle, few headers)] https://cdn.kernel.org/pub/linux/utils/fs/xfs/xfsprogs/xfsprogs-6.11.0.tar.xz
+xlib_libXpresent 1.0.2 [MIT] https://xorg.freedesktop.org/archive/individual/lib/libXpresent-1.0.2.tar.xz
+xxhash 0.8.3 [BSD-2-Clause (library), GPL-2.0+ (xxhsum)] https://github.com/Cyan4973/xxHash/archive/v0.8.3/xxhash-0.8.3.tar.gz
+zip 3.0 [Info-ZIP] https://sourceforge.net/projects/infozip/files/Zip%203.x%20%28latest%29/3.0/zip30.tar.gz
