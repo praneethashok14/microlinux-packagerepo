@@ -1,0 +1,136 @@
+alsa-utils|Desktop & media
+bc|Command line
+bind|Internet & network
+btrfs-progs|Disks
+cryptsetup|Disks
+ddrescue|Disks
+diffutils|Development
+dillo|Desktop & media
+dropbear|Internet & network
+ed|Editors
+exfatprogs|Disks
+feh|Desktop & media
+ffmpeg|Desktop & media
+flex|Libraries
+fltk|Libraries
+gdb|Development
+git|Development
+gmp|Libraries
+gnuchess|Games
+gnupg2|Command line
+gnuplot|Desktop & media
+gptfdisk|Disks
+gumbo-parser|Libraries
+hdparm|Disks
+hwdata|Libraries
+imagemagick|Desktop & media
+imlib2|Libraries
+inih|Libraries
+iotop|Command line
+iperf3|Internet & network
+irssi|Internet & network
+jbig2dec|Libraries
+joe|Editors
+jq|Development
+json-c|Libraries
+lbreakout2|Games
+lcms2|Libraries
+lftp|Internet & network
+libaio|Libraries
+libargon2|Libraries
+libass|Libraries
+libassuan|Libraries
+libdeflate|Libraries
+libdisplay-info|Libraries
+libevent|Libraries
+libgcrypt|Libraries
+libglew|Libraries
+libglu|Libraries
+libgpg-error|Libraries
+libksba|Libraries
+liblinear|Libraries
+libminiupnpc|Libraries
+libnatpmp|Libraries
+libnpth|Libraries
+libnvme|Libraries
+libpcap|Libraries
+libplacebo|Libraries
+libtorrent|Libraries
+liburcu|Libraries
+libutp|Libraries
+libuv|Libraries
+lighttpd|Internet & network
+lsof|Command line
+ltrace|Development
+ltris|Games
+lvm2|Disks
+lynx|Internet & network
+make|Development
+mc|Command line
+mdadm|Disks
+mesa3d-demos|Desktop & media
+mpdecimal|Libraries
+mpfr|Libraries
+mpg123|Desktop & media
+mpv|Desktop & media
+mtr|Internet & network
+mupdf|Desktop & media
+ncdu|Command line
+neofetch|Command line
+netcat-openbsd|Internet & network
+nginx|Internet & network
+nmap|Internet & network
+nnn|Command line
+ntfs-3g|Disks
+nvme|Disks
+openjpeg|Libraries
+openvpn|Internet & network
+p7zip|Command line
+patch|Development
+perl|Development
+php|Development
+popt|Libraries
+python-certifi|Libraries
+python-charset-normalizer|Libraries
+python-idna|Libraries
+python-pip|Development
+python-requests|Development
+python-setuptools|Libraries
+python-urllib3|Libraries
+python3|Development
+ranger|Command line
+ripgrep|Command line
+rsync|Command line
+rtorrent|Internet & network
+ruby|Development
+screen|Command line
+sdl|Libraries
+sdl_mixer|Libraries
+sdl_net|Libraries
+smartmontools|Disks
+socat|Internet & network
+sqlite|Development
+sysstat|Command line
+tcl|Development
+tcpdump|Internet & network
+tig|Development
+tmux|Command line
+tor|Internet & network
+transmission|Internet & network
+unzip|Command line
+valgrind|Development
+vim|Editors
+wget|Command line
+wireguard-tools|Internet & network
+xapp_xcalc|Desktop & media
+xapp_xclock|Desktop & media
+xapp_xedit|Desktop & media
+xapp_xev|Desktop & media
+xapp_xeyes|Desktop & media
+xapp_xkill|Desktop & media
+xapp_xload|Desktop & media
+xapp_xmag|Desktop & media
+xfsprogs|Disks
+xlib_libXpresent|Libraries
+xxhash|Libraries
+zip|Command line
