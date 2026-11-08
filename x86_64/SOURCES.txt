@@ -2,11 +2,11 @@ MicroLinux package repository: package, version, license, upstream source.
 Built with Buildroot 2026.02.3; Buildroot's patches for each package are in
 https://gitlab.com/buildroot.org/buildroot/-/tree/2026.02.3/package
 
-alsa-utils 1.2.15.2 [GPL-2.0] https://www.alsa-project.org/files/pub/utils/alsa-utils-1.2.15.2.tar.bz2
 bc 1.08.2 [GPL-2.0+, LGPL-2.1+] https://ftpmirror.gnu.org/bc/bc-1.08.2.tar.gz
 bind 9.18.49 [MPL-2.0] https://ftp.isc.org/isc/bind9/9.18.49/bind-9.18.49.tar.xz
 btrfs-progs 6.10 [GPL-2.0, LGPL-2.1+ (libbtrfsutil)] https://cdn.kernel.org/pub/linux/kernel/people/kdave/btrfs-progs/btrfs-progs-v6.10.tar.xz
 cryptsetup 2.8.4 [Apache-2.0, CC-BY-SA-4.0, GPL-2.0+ (programs), LGPL-2.1+ (library)] https://cdn.kernel.org/pub/linux/utils/cryptsetup/v2.8/cryptsetup-2.8.4.tar.xz
+cups 2.4.17 [Apache-2.0 with GPL-2.0/LGPL-2.0 exception] https://github.com/OpenPrinting/cups/releases/download/v2.4.17/cups-2.4.17-source.tar.gz
 ddrescue 1.30 [GPL-2.0+] https://ftpmirror.gnu.org/ddrescue/ddrescue-1.30.tar.lz
 diffutils 3.12 [GPL-3.0+] https://ftpmirror.gnu.org/diffutils/diffutils-3.12.tar.xz
 dillo 3.2.0 [GPL-3.0+] https://github.com/dillo-browser/dillo/releases/download/v3.2.0/dillo-3.2.0.tar.bz2
@@ -56,6 +56,8 @@ liblinear 2.49 [BSD-3-Clause] https://www.csie.ntu.edu.tw/~cjlin/liblinear/oldfi
 libminiupnpc 2.3.3 [BSD-3-Clause] http://miniupnp.free.fr/files/miniupnpc-2.3.3.tar.gz
 libnatpmp 20230423 [BSD-3-Clause] http://miniupnp.free.fr/files/libnatpmp-20230423.tar.gz
 libnpth 1.8 [LGPL-2.0+] https://www.gnupg.org/ftp/gcrypt/npth/npth-1.8.tar.bz2
+libnspr 4.38.2 [MPL-2.0] https://ftp.mozilla.org/pub/mozilla.org/nspr/releases/v4.38.2/src/nspr-4.38.2.tar.gz
+libnss 3.120.1 [MPL-2.0] https://ftp.mozilla.org/pub/mozilla.org/security/nss/releases/NSS_3_120_1_RTM/src/nss-3.120.1.tar.gz
 libnvme 1.16.1 [LGPL-2.1] https://github.com/linux-nvme/libnvme/archive/v1.16.1/libnvme-1.16.1.tar.gz
 libpcap 1.10.6 [BSD-3-Clause] https://www.tcpdump.org/release/libpcap-1.10.6.tar.gz
 libplacebo v7.351.0 [LGPL-2.1+] https://code.videolan.org/videolan/libplacebo.git/libplacebo-v7.351.0-git4.tar.gz

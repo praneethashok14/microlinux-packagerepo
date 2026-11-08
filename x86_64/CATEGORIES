@@ -1,8 +1,8 @@
-alsa-utils|Desktop & media
 bc|Command line
 bind|Internet & network
 btrfs-progs|Disks
 cryptsetup|Disks
+cups|Libraries
 ddrescue|Disks
 diffutils|Development
 dillo|Desktop & media
@@ -52,6 +52,8 @@ liblinear|Libraries
 libminiupnpc|Libraries
 libnatpmp|Libraries
 libnpth|Libraries
+libnspr|Libraries
+libnss|Libraries
 libnvme|Libraries
 libpcap|Libraries
 libplacebo|Libraries
@@ -137,3 +139,4 @@ xxhash|Libraries
 zip|Command line
 el7-runtime|System
 firefox|Internet & network
+chromium|Internet & network

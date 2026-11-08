@@ -1,8 +1,8 @@
-alsa-utils|1.2.15.2|alsa-utils-1.2.15.2.mlp|d04405bc1413c1e8a5b51ed20e90c79df603b6ddbcff06015412d53b45d8a275|868352|This package contains the command line utilities for the ALSA project||app
 bc|1.08.2|bc-1.08.2.mlp|22ccf65ca8164a9c00fee250b8a635b1e414ec7747be729176d5d2f454889911|40960|'bc' is an arbitrary precision numeric processing language Its syntax is similar to C, but differs i||app
 bind|9.18.49|bind-9.18.49.mlp|0d931b61eac6ca4b0ec4f70e09b3df520ac41bb70953d800ef412d5fbaedba5a|1179648|BIND (Berkeley Internet Name Domain) is an implementation of the Domain Name System (DNS) protocols |json-c libuv|app
 btrfs-progs|6.10|btrfs-progs-6.10.mlp|68232fbf1747f474eb6bfd77aa10375aa995094f0c815c19a76e0b62616a6a40|2101248|Btrfs filesystem utilities||app
 cryptsetup|2.8.4|cryptsetup-2.8.4.mlp|43fb0c06ec75fe1183465d22c2b6ce75344cece9ba5f008fdd34c2cb52761d37|290816|This tool helps manipulate dm-crypt and luks partitions for on-disk encryption|json-c libaio libargon2 lvm2 popt|app
+cups|2.4.17|cups-2.4.17.mlp|0ec700b648570f9cab7529e9bde182054c8efb3d0cef908aa127dc51f7a7beda|5283840|The Common Unix Printing System||lib
 ddrescue|1.30|ddrescue-1.30.mlp|1e92253e717b10e3dc481d15628fc8da1da0cf9b85f5301fbe7515951e275dd9|73728|GNU ddrescue is a data recovery tool||app
 diffutils|3.12|diffutils-3.12.mlp|5741882a6d716e4d2545305b389bc633aba1a5b985df579b5245810898384729|118784|GNU diff||app
 dillo|3.2.0|dillo-3.2.0.mlp|6ff859f28f8ce28a954cba80e0cfd4ea5a8c8716167857c013851a2a4866ce53|499712|Dillo is a multi-platform graphical web browser known for its speed and small footprint|fltk|app
@@ -52,6 +52,8 @@ liblinear|2.49|liblinear-2.49.mlp|1b37ff2ef4561f70bc272adc634b6e64e254a2643b716d
 libminiupnpc|2.3.3|libminiupnpc-2.3.3.mlp|c0d7c4d8de87f5f4b0f7f9b9992b987ec762be4777c456342104554897a8c66d|20480|The UPnP protocol is supported by most home adsl/cable routers and Microsoft Windows 2K/XP. The aim ||lib
 libnatpmp|20230423|libnatpmp-20230423.mlp|05ce2d17f960e34b728c8116915d6d05484811f30564f2e422acfc77aabf3544|8192|libnatpmp is an attempt to make a portable and fully compliant implementation of the NAT-PMP protoco||lib
 libnpth|1.8|libnpth-1.8.mlp|98cea6501736ad83a77b6d8422e87f9f76379f0636073e7c3a555c1b90d95c5c|8192|nPth is a library to provide the GNU Pth API and thus a non-preemptive threads implementation||lib
+libnspr|4.38.2|libnspr-4.38.2.mlp|85f91d6ec2d480e59a368edb924a25ffe5e90cb8b7e893354095e16484adc339|102400|NSPR is the Netscape Portable Runtime library which provides a platform-neutral API for system level||lib
+libnss|3.120.1|libnss-3.120.1.mlp|f9e40854f8f3beb8c6fbd2a18ae4441cad5d27ca33ee4216a1c793060fc2752d|1277952|Network Security Services (NSS) is a set of libraries designed to support development of security-en|libnspr sqlite|lib
 libnvme|1.16.1|libnvme-1.16.1.mlp|1435ab76f3b0e5d98082761ef75a278458415d4263a9e3c7ac0c0e0c318bbb04|155648|libnvme provides type definitions for NVMe specification and utilities for nvme devices handling in |json-c mpdecimal python3 sqlite|lib
 libpcap|1.10.6|libpcap-1.10.6.mlp|901f44b52d3fc016ac8779b41397efa1ffe7ea24ce6b06ed58b5132af918c84b|94208|A system-independent library for user-level network packet capture||lib
 libplacebo|v7.351.0|libplacebo-v7.351.0.mlp|97938dd7dd40286ca6d6d4548a3aa58fe151555d079d9795d48937aae97a423b|290816|libplacebo is, in a nutshell, the core rendering algorithms and ideas of mpv rewritten as an indepen||lib
@@ -137,3 +139,4 @@ xxhash|0.8.3|xxhash-0.8.3.mlp|ecefba1eb2273d104eb8b756e7058219b847029d94bec01587
 zip|3.0|zip-3.0.mlp|fa37ce1d022aa4321cc1ec9467252c90582cfde1403381282e66a0d001c7f3a3|159744|Zip is a compression and file packaging/archive utility||app
 el7-runtime|7.9.2009|el7-runtime-7.9.2009.mlp|4167fb6677e3304b7aa31818046733f48bb7f617127fbcbb4434c9d6da6a7168|9703424|RHEL/CentOS 7 (glibc 2.17) runtime for el7-run and el7-chroot||app
 firefox|153.6.0esr|firefox-153.6.0esr.mlp|ae61db52cc0d4c7f112ebebde4adcb1d53eab2d60a2812a53d6871ad08b66e0a|82640896|Mozilla Firefox ESR web browser (official build)||app
+chromium|156.0.8078.79|chromium-156.0.8078.79.mlp|b025e021daf832a9692f781d52773d29b97d2019e2091eee0c6134b481b8c414|135999488|Chromium web browser (ungoogled-chromium: without Google services)|cups libnspr libnss sqlite|app
