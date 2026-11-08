@@ -1,0 +1,5 @@
+# Package files are published as GitHub release assets (packages-<arch>),
+# not committed: see README.md and small os/scripts/publish-repo.sh
+*.mlp
+*.new
+.DS_Store

@@ -1,0 +1,138 @@
+alsa-utils|1.2.15.2|alsa-utils-1.2.15.2.mlp|c8ed18a144569ab281b63c0e5b9afcca3644700816840c9fee35c6d7685f64df|876544|This package contains the command line utilities for the ALSA project||app
+bc|1.08.2|bc-1.08.2.mlp|c3c42b4f3e7572d2129c83243d1ae51165f0d74869fee5a422583daa5f4330d1|45056|'bc' is an arbitrary precision numeric processing language Its syntax is similar to C, but differs i||app
+bind|9.18.49|bind-9.18.49.mlp|90c100992fadb8a1d359f22d757152d95c3a14bb92dc32ab353c95d4df5ecf19|1294336|BIND (Berkeley Internet Name Domain) is an implementation of the Domain Name System (DNS) protocols |json-c libuv|app
+btrfs-progs|6.10|btrfs-progs-6.10.mlp|0ac6d45b2732e7e1c43952fe3580c6875d1b0f5f2cc996cb708885e95f916bf8|2326528|Btrfs filesystem utilities||app
+cryptsetup|2.8.4|cryptsetup-2.8.4.mlp|3a52dd2c9f2950cc3e9a3df406df2a2ce1f7c64ff0942f3fea5cf1545e03d232|323584|This tool helps manipulate dm-crypt and luks partitions for on-disk encryption|json-c libaio libargon2 lvm2 popt|app
+ddrescue|1.30|ddrescue-1.30.mlp|83bcf3febf0eb4c287bc111edc12f0cda70bb1a762624587e471dd6aae89148b|77824|GNU ddrescue is a data recovery tool||app
+diffutils|3.12|diffutils-3.12.mlp|e8ad188e0d9d0be55b73f864d847114997604d22882ddc93a11f57b23f43b849|126976|GNU diff||app
+dillo|3.2.0|dillo-3.2.0.mlp|4a2b686e5df926c45960a18a9515a85db0b5112deddbb17ad078dcfbbcb46f42|532480|Dillo is a multi-platform graphical web browser known for its speed and small footprint|fltk|app
+dropbear|2026.91|dropbear-2026.91.mlp|005171566e16f49f64102eb810b2540fd180811e4a2aaf90d8943127182683d6|147456|A small SSH 2 server designed for small memory environments||app
+ed|1.22.3|ed-1.22.3.mlp|0b4fb31f738753c020f14fedae4bd46048b14a6cbdba19053ae9f3384c004a04|24576|A line-oriented text editor||app
+exfatprogs|1.2.9|exfatprogs-1.2.9.mlp|040aa80b751d338213b6a6cd553bcf70f98ca87732f2f95e3da2a1475fb43aae|77824|exFAT filesystem userspace utilities||app
+feh|3.11.2|feh-3.11.2.mlp|ee48ed3b34987def78d6d082e9dc6cd1e40c9fcb077666ade1887a26969871e5|98304|feh is an X11 image viewer aimed mostly at console users|imlib2|app
+ffmpeg|6.1.5|ffmpeg-6.1.5.mlp|0607f1108589049e68f31ce45068365f8965097f5f79fbe83a39825c191545a9|8777728|FFmpeg is a complete, cross-platform solution to record, convert and stream audio and video|lcms2 libass openjpeg|app
+flex|2.6.4|flex-2.6.4.mlp|cf183fe493fdecf9666d31a824a9595a409f838446977a84248f96064691be15|4096|A fast lexical analyser generator||lib
+fltk|1.3.7|fltk-1.3.7.mlp|76527c11607ac6d9b8478755e7552768f4c0494752992b70437ef39e70b88fd9|593920|A cross-platform C++ GUI toolkit for UNIX/Linux (X11), Microsoft Windows, and MacOS X||lib
+gdb|15.2|gdb-15.2.mlp|22160e3d75b9529363e4b19a5709fe1e32ef26928bdcdab3209421ebb58b3571|2686976|GDB, the GNU Project debugger, allows you to see what is going on `inside' another program while it |gmp mpfr|app
+git|2.53.0|git-2.53.0.mlp|fab6a21fa61fcb5b78508b0043cb217ccc7f0794507b21a8abbef6510172f940|9097216|Git is a free and open source distributed version control system designed to handle everything from |sqlite tcl|app
+gmp|6.3.0|gmp-6.3.0.mlp|6b6aef0ae7d1842e3c3f5dca383a49dcd34bf9f7d93440c555405d5d328bcac2|204800|GNU Multiple Precision Arithmetic Library||lib
+gnuchess|6.3.0|gnuchess-6.3.0.mlp|ea62a116bc449597dfed8538708d5bbbed51a063661d93b80c0104b0af93b74b|135168|GNU Chess lets most modern computers play a full game of chess|flex|app
+gnupg2|2.5.20|gnupg2-2.5.20.mlp|c4390f48ac67ab3fd9ac5e31d52bb0c613ed385661d39ca66ac464de47bfaf42|1830912|GnuPG is the GNU project's complete and free implementation of the OpenPGP standard as defined by RF|libassuan libgcrypt libgpg-error libksba libnpth sqlite|app
+gnuplot|6.0.4|gnuplot-6.0.4.mlp|8bb5ff7f240df4fc939d1ed9df5c0f7516e1a2aec5513c6a842347bd96ba969a|528384|A portable command-line driven graphing utility||app
+gptfdisk|1.0.10|gptfdisk-1.0.10.mlp|cf527b4195b80b9a8d6c36199e2e7034b45b5b8ca15be4f7daa008a92de4efe1|135168|GPT fdisk (consisting of the gdisk and sgdisk programs) is a text-mode partitioning tool that works |popt|app
+gumbo-parser|0.13.2|gumbo-parser-0.13.2.mlp|afcb982a62ee7ec9966cf897441d965781696d5b8376e9a55785e71f67cfa799|98304|Gumbo is an implementation of the HTML5 parsing algorithm implemented as a pure C99 library with no ||lib
+hdparm|9.65|hdparm-9.65.mlp|fb49b16f90d41b66dbbdf6ccbcb3642ece0d0a7855a5b475ee24d7d5b6739d66|45056|hdparm - get/set ATA/SATA drive parameters under Linux||app
+hwdata|0.403|hwdata-0.403.mlp|4f910c5b49e2f7a088af788cd2a489ccc729e948dfc470465ae84c9f011de8e3|548864|Various hardware identification and configuration data||lib
+imagemagick|7.1.2-23|imagemagick-7.1.2-23.mlp|b6f1318309ad064c7b74eaf08e4c894b30917bd2051c4a146cfb851d67b1c946|1695744|ImageMagick(R) is a software suite to create, edit, and compose bitmap images|lcms2|app
+imlib2|1.12.5|imlib2-1.12.5.mlp|84cbbf99c319cad869e4003400c55f823ab4981e35e59a1f34e1fea3d367bbff|512000|Imlib 2 is the successor to Imlib||lib
+inih|62|inih-62.mlp|25d26ab0e0d8acacde645e0f596e66d9c443e342e1387359c5c08ccb23db85b3|12288|inih (INI Not Invented Here) is a simple .INI file parser written in C||lib
+iotop|0.6|iotop-0.6.mlp|0d32a9f1a72cefdc6a687667c25a4c44fa8749498fe93313d6b9186f5edd04e4|57344|iotop does for I/O usage what top does for CPU usage|mpdecimal python3 sqlite|app
+iperf3|3.20|iperf3-3.20.mlp|b952f248ae5b02e8a418f6530337a7b49f3e4520e1beb811f9541064ea6abec1|69632|iperf is a tool for active measurements of the maximum achievable bandwidth on IP networks||app
+irssi|1.4.5|irssi-1.4.5.mlp|f3ad5bb51c7b9ff3b62b09f88fa5f52add9485621a831342a27776fda99938b0|401408|Irssi is a terminal based IRC client for UNIX systems||app
+jbig2dec|0.20|jbig2dec-0.20.mlp|4d574dad5850546549436250ed8348384aa3f5cc7bf5460162654dc0c1816c31|49152|jbig2dec is a decoder implementation of the JBIG2 image compression format||lib
+joe|4.6|joe-4.6.mlp|b8945fa69573b12b0485fc19516c49745e88d8a2302ff407c4d29ba06e9dc1ed|401408|Joe's Own Editor||app
+jq|1.8.1|jq-1.8.1.mlp|97641509b8aa65f8038d21f1091642a7dee3557c8c0177ae358a06cc98042a15|131072|jq is like sed for JSON data - you can use it to slice and filter and map and transform structured d||app
+json-c|0.18|json-c-0.18.mlp|0a709cd9057399b3390e6fad43bf3fe51d2dec8d89cb3def661c57d7ed90d426|28672|JSON-C - A JSON implementation in C||lib
+lbreakout2|2.6.5|lbreakout2-2.6.5.mlp|f13524ca22befcb38619871741168eb61df2d5eed57f7da722df65df10eb113e|2355200|LBreakout2 is the successor to LBreakout, a breakout-style arcade game in the manner of Arkanoid|sdl sdl_mixer sdl_net|app
+lcms2|2.19|lcms2-2.19.mlp|75f6964b7d68fcacd7d20a5878cd163c5a0a4ab916370334ed2a65bc2b8e5935|155648|Little Color Management Software (CMS) intends to be an OPEN SOURCE small-footprint color management||lib
+lftp|4.9.2|lftp-4.9.2.mlp|553623a46b0ab8063c9d43fc8fa9f4d3d0eacfca2796a9c91ed7ae0b85680076|528384|LFTP is a sophisticated ftp/http client, and a file transfer program supporting a number of network ||app
+libaio|0.3.113|libaio-0.3.113.mlp|ddab4134ff920d5cfa88828f2d81b1c3c288825e517688a8cc5ca408dc8bac96|4096|Library for doing asynchronous I/O||lib
+libargon2|20190702|libargon2-20190702.mlp|4ae7956179dac0c8b30d77e83aad23d4c475d0b13f6a01df66f308a2041cb995|20480|A modern password hashing algorithm||lib
+libass|0.17.4|libass-0.17.4.mlp|18ba1282f57b190c2142d71528c38e2e0bee88442922309dcc682d6b89db6fa1|81920|libass is a portable subtitle renderer for the ASS/SSA (Advanced Substation Alpha/Substation Alpha) ||lib
+libassuan|3.0.2|libassuan-3.0.2.mlp|874ac1306512b7a0fc50e8d37e2d2b2a68513eee3694d7e4e9e6da2fa4394274|32768|Libassuan is a small library implementing the so-called Assuan protocol|libgpg-error|lib
+libdeflate|1.25|libdeflate-1.25.mlp|b4d773808c1e9b1915470adf82653ad8235e383675deaeb2481ce1c7284d5651|53248|Libdeflate is a heavily optimized library for DEFLATE/zlib/ gzip compression and decompression||lib
+libdisplay-info|0.3.0|libdisplay-info-0.3.0.mlp|39f70767d5b88e7626c60b7c5f05890fff3fb4b6d36a00a422d4f25f8825f782|86016|EDID and DisplayID library|hwdata|lib
+libevent|2.1.12|libevent-2.1.12.mlp|9540df099fa27fdd6f995a57a1926ac8d0c65bcf10b646ef2fb5e5edb77093d8|253952|Userspace library for handling asynchronous notifications||lib
+libgcrypt|1.12.0|libgcrypt-1.12.0.mlp|55ba6f3f0f9743c032d49aca3e7456af0290df355f5c8ceb7caaf99c6c14095d|520192|LibGCrypt is GNU's basic cryptographic library|libgpg-error|lib
+libglew|2.2.0|libglew-2.2.0.mlp|ab3481adab24dfe5d3c81977fdd6f35ec6a096038a17f0a0c4ea6f0c448149f0|139264|The OpenGL Extension Wrangler Library (GLEW) is a cross-platform C/C++ extension loading library||lib
+libglu|9.0.3|libglu-9.0.3.mlp|5e148ee0a504634dd90184f3e4910c3c26cea2c98106660ff769780fd6f55300|139264|Mesa OpenGL Utility library||lib
+libgpg-error|1.61|libgpg-error-1.61.mlp|076d25f0b9995b1e8b3951eceb36e1607030042cfad8d43a4bb88d49431e09d7|73728|Libgpg-error is a small library with error codes and descriptions shared by most GnuPG related softw||lib
+libksba|1.6.7|libksba-1.6.7.mlp|b7f67d1f6f5510404ab9a9b38483f0bf0cfab75605a2e84d0855d03d636ea9b5|81920|CMS and X.509 library|libgpg-error|lib
+liblinear|2.49|liblinear-2.49.mlp|2752b07a0edc6328371c09dbdb149fb087474ea7dda654127db56ddbb2d9a5a1|28672|liblinear is a linear classifier for data with millions of instances and features||lib
+libminiupnpc|2.3.3|libminiupnpc-2.3.3.mlp|197b71a82ac1b65d96b7bbc994cfaa1c1060ea017208ee478f4c09505b6e7bd3|20480|The UPnP protocol is supported by most home adsl/cable routers and Microsoft Windows 2K/XP. The aim ||lib
+libnatpmp|20230423|libnatpmp-20230423.mlp|ee2dc14991056c3010eb462614955350b5a6349f777c84b883fdaa713b628843|8192|libnatpmp is an attempt to make a portable and fully compliant implementation of the NAT-PMP protoco||lib
+libnpth|1.8|libnpth-1.8.mlp|eff8785bbc755d0ff07e30906ee7470c9a523cf08df3b6113043b1606de8a7db|8192|nPth is a library to provide the GNU Pth API and thus a non-preemptive threads implementation||lib
+libnvme|1.16.1|libnvme-1.16.1.mlp|e9ab5dd78caea7fefe2e7efccce2f99e47501d7766ff754872ff314ca8f2b43c|159744|libnvme provides type definitions for NVMe specification and utilities for nvme devices handling in |json-c mpdecimal python3 sqlite|lib
+libpcap|1.10.6|libpcap-1.10.6.mlp|6c3eba7d2ec1b36fb145f3b9de0a92177b91c71d5059f3ed33e12f81b0b3e642|98304|A system-independent library for user-level network packet capture||lib
+libplacebo|v7.351.0|libplacebo-v7.351.0.mlp|5ecfc3285972b7445ad608fb14870ec5915d631a3bbb32e99733139ece7f07f7|307200|libplacebo is, in a nutshell, the core rendering algorithms and ideas of mpv rewritten as an indepen||lib
+libtorrent|0.15.3|libtorrent-0.15.3.mlp|3721bc9c6e80851571bc77cdad3f70d5cffdef880edfae956c412b0985895c35|335872|BitTorrent library written in C++ for *nix||lib
+liburcu|0.15.5|liburcu-0.15.5.mlp|02f683e16c9d47672134c56ad5d9b73aca638aaa0c08c27858ffd3c2e389e9cd|61440|Userspace implementation of the Read-Copy-Update (RCU) synchronization mechanism||lib
+libutp|c95738b1a6644b919e5b64d3ea9736cfc5894e0b|libutp-c95738b1a6644b919e5b64d3ea9736cfc5894e0b.mlp|a5b6fb9fad215bdf739800fa38ffaee3c6e1c243425954ff5e5c1a80314d30c3|24576|uTorrent Transport Protocol library||lib
+libuv|1.51.0|libuv-1.51.0.mlp|0268e5cb0d5dd34578d7ac81c6c3187efcbccaf83b4f3919ea798d15658cbc2b|69632|libuv is a multi-platform support library with a focus on asynchronous I/O||lib
+lighttpd|1.4.82|lighttpd-1.4.82.mlp|a6de5d1158971651277691de474485fa52ccf8cd86972df3452f866320b154a6|286720|lighttpd a secure, fast, compliant and very flexible web-server which has been optimized for high-pe|xxhash|app
+lsof|4.99.4|lsof-4.99.4.mlp|9b8a25c9e0d2ac59546451d7b925bf2250064149eda05a23c9b469f5fef56041|77824|lsof (LiSt Open Files) The lsof tool lists information about files opened by processes||app
+ltrace|0.8.1|ltrace-0.8.1.mlp|d6b65b1c30c2ac06a9e16246c36549ae28e805b728d1514332a2cca39446a674|114688|Debugging program which runs a specified command until it exits||app
+ltris|1.3.2|ltris-1.3.2.mlp|825c500042621cfd464d432f9381b4fd3bcbe2c34f8651f9a8ff54de089102ab|1167360|LTris is a tetris clone, using SDL. It optionally requires SDL_mixer for audio support|sdl sdl_mixer|app
+lvm2|2.03.31|lvm2-2.03.31.mlp|3015ef922ecb2560b03028cea93ffee01fed6b97e3050c67419a53675eb7cc02|1916928|This is LVM2, the rewrite of The Linux Logical Volume Manager|libaio|app
+lynx|2.9.2|lynx-2.9.2.mlp|9076fd28400ca17610daa30c7a10dc42f5f6646fbb26cf03b753b1aba3ed2bd0|585728|The Text Web-Browser||app
+make|4.4.1|make-4.4.1.mlp|6a7d2aeacc109c53ade33d5146788a2e047fc1eba90ca7fcb12ce550af35dfe4|98304|A tool which controls the generation of executables and other non-source files of a program from the||app
+mc|4.8.33|mc-4.8.33.mlp|024b0b16152081b85fcc12acedd8dbbce06596132887b32d86a9822f3d157af4|614400|GNU Midnight Commander is a visual file manager, licensed under GNU General Public License||app
+mdadm|4.3|mdadm-4.3.mlp|ea3027e71029dbf0c5b2710395848e7d75b4bb0aec88361a9594f5c8c428d322|368640|Utility for managing Linux Software RAID arrays||app
+mesa3d-demos|9.0.0|mesa3d-demos-9.0.0.mlp|e40a4e429a3b465b8b476781cb86b1299a5f340bdbc46a65f62a4a5395e9160b|1273856|OpenGL demos from the Mesa 3D project|libglew libglu|app
+mpdecimal|4.0.0|mpdecimal-4.0.0.mlp|f0a6d54a1128a8f78f8a880e88ef54b98a9c491d84a0e865954f1c4bfbcaec58|65536|mpdecimal is a package for correctly-rounded arbitrary precision decimal floating point arithmetic||lib
+mpfr|4.1.1|mpfr-4.1.1.mlp|4e748ff2b3f5df9d32d27ddd7cde362c521f5a7a588d453ac224a0359896e814|176128|C library for multiple-precision floating-point computations with exact rounding|gmp|lib
+mpg123|1.33.4|mpg123-1.33.4.mlp|f81336379f72dffd404d9dc307dbe6c60506ca2d62ee20d4a8d747a7ecb03c7a|249856|Fast, free and portable MPEG audio player for Unix|sdl|app
+mpv|0.40.0|mpv-0.40.0.mlp|010da40316b50d657c45c69e020c75ed846b9114fe8e49bb47fa59a6c44cc12f|1470464|mpv is a fork of mplayer2 and MPlayer|ffmpeg hwdata lcms2 libass libdisplay-info libplacebo openjpeg xlib_libXpresent|app
+mtr|0.95|mtr-0.95.mlp|f2da979dab299ef333107bef3a292c6d14855c929c93056a59340fcd0fcd2493|45056|mtr combines the functionality of the 'traceroute' and 'ping' programs in a single network diagnosti||app
+mupdf|1.23.9|mupdf-1.23.9.mlp|acec58e0730d31c13557368cab0040fa24f1cfa618fe0374e1a5eb0e81ba48be|29351936|MuPDF is a lightweight PDF, XPS, and E-book viewer|gumbo-parser jbig2dec lcms2 openjpeg|app
+ncdu|1.22|ncdu-1.22.mlp|a17411aa147f9a93d3b1bbc3ce9595e8b1be31343cb95c3164286ccda1a772d8|32768|ncdu is a disk usage analyzer with an ncurses interface||app
+neofetch|7.1.0|neofetch-7.1.0.mlp|1ae614ef93dfe3ffa1a6187dbd543ecd74e5fcbc9b7c299345045a98e8f51672|81920|Neofetch is a bash script to display system information, including hardware, in a visually pleasing ||app
+netcat-openbsd|1.234|netcat-openbsd-1.234.mlp|5c2da033cb964e26d13cc2a7a098d95ac166db0dfbb2fbdc5ceedf59bdd97010|16384|A simple Unix utility which reads and writes data across network connections using TCP or UDP protoc||app
+nginx|1.30.2|nginx-1.30.2.mlp|6f1faf2a40f96019f201d42c5ee5ce9b9edb511ac3ca84c11a8a6077cf56955b|278528|nginx is an HTTP and reverse proxy server, as well as a mail proxy server||app
+nmap|7.98|nmap-7.98.mlp|bbf1e961de9583f11004a394a2350bb698f70de295e997ff1b3b35356c8e775c|2416640|Nmap ("Network Mapper") is a free and open source (license) utility for network discovery and securi|liblinear libpcap|app
+nnn|5.1|nnn-5.1.mlp|24aca09fd00d6596cebae2cc9aa5a2889883c0138a5cf821a25bcc0c62fed1a9|45056|nnn is a lightweight yet powerful terminal file manager||app
+ntfs-3g|2022.10.3|ntfs-3g-2022.10.3.mlp|e2a3948f778a6e4ada60644b4bdeaaeeec7fa2274643de28e95c83fc807a6d84|364544|The NTFS-3G driver is an open source, freely available read/write NTFS driver for Linux, FreeBSD, Ma||app
+nvme|2.15|nvme-2.15.mlp|803512b589a28ae9893b73c18d742d18229dbba00281a13d34c5ecbccf1554e2|450560|NVME utility, a utility for interacting with standard NVM Express (optimized PCI Express SSD interfa|json-c libnvme mpdecimal python3 sqlite|app
+openjpeg|2.5.4|openjpeg-2.5.4.mlp|ae65680cc15c8f066d43012d7b67937082dcbaae435251dc65a179011988798d|221184|The OpenJPEG library is an open-source JPEG 2000 codec written in C|lcms2|lib
+openvpn|2.6.20|openvpn-2.6.20.mlp|d4558cad3c41c1f44936b2d4cb8930018b808231bcdca0d9f9ac29f4475b5cfd|303104|OpenVPN is a full-featured SSL VPN solution which can accommodate a wide range of configurations, in||app
+p7zip|17.06|p7zip-17.06.mlp|db068fdfc1b0718d948e63de240ad75f3f302b12bb34b4a694a63894d6c2e6ab|323584|p7zip is a quick port of the command line version of 7-zip for Unix (see http://www.7-zip.org)||app
+patch|2.7.6|patch-2.7.6.mlp|1566f4977616cbbb635b2181fd6a0e90e7481d420f5a4e33399792012b207442|73728|Take patch files (containing difference listings) and apply them to original files, producing patche||app
+perl|5.42.2|perl-5.42.2.mlp|5524dd4a770a607782ccac4e13a925f52c7830ec9314c936a1df1fd78b23dc83|7741440|Larry Wall's Practical Extraction and Report Language An interpreted scripting language, known among||app
+php|8.5.7|php-8.5.7.mlp|fdac00b5467d8c0dc6ede890fc8660cde6f8d12e683b18b9d82c72dcd483619a|2174976|PHP  is a widely-used general-purpose scripting language that is especially suited for Web developme||app
+popt|1.19|popt-1.19.mlp|77c34d81b1718c13366e5266cc2b5fa0d27c08b0b46b0b95fec1a55c3e05046e|20480|Popt is a C library for parsing command line parameters||lib
+python-certifi|2026.4.22|python-certifi-2026.4.22.mlp|90739e944e93a01875d20fbe50602bf676ec51cf207686abf2b778e699b85bf6|131072|Python package for providing Mozilla's CA Bundle|mpdecimal python3 sqlite|lib
+python-charset-normalizer|3.4.4|python-charset-normalizer-3.4.4.mlp|c618f2240f366743d1f649c17309546f29c9990488196b35857d8503a5211f28|180224|The Real First Universal Charset Detector|mpdecimal python3 sqlite|lib
+python-idna|3.11|python-idna-3.11.mlp|61abed821ca90fbbe9098088fd0f473ac6977bb23b1f2caad4d1401d9cb15e45|94208|A library to support the Internationalised Domain Names in Applications (IDNA) protocol as specified|mpdecimal python3 sqlite|lib
+python-pip|25.3|python-pip-25.3.mlp|b3a76aa43c3a50802cd1811d1d1dae3f7f27627aabd3548db7e10ac7577c57ee|3092480|The PyPA recommended tool for installing Python packages|mpdecimal python3 sqlite|app
+python-requests|2.33.1|python-requests-2.33.1.mlp|922c16d8633b27117186e8f14fc2a41592f182e5da6d8ecaf1d48901a5ab365b|131072|Requests is an Apache2 Licensed HTTP library, written in Python, for human beings|mpdecimal python3 sqlite|app
+python-setuptools|80.9.0|python-setuptools-80.9.0.mlp|83a47dfb15668be8e1b3c039a469984397125efc4d7f83b2ce48c8f2868803ed|2461696|Download, build, install, upgrade, and uninstall Python packages|mpdecimal python3 sqlite|lib
+python-urllib3|2.7.0|python-urllib3-2.7.0.mlp|a4c99be855d5482854a166e7e03ee0436121cc129c31168e164234e8e7a38bbc|286720|Python HTTP library with thread-safe connection pooling, file post support, sanity friendly, and mor|mpdecimal python3 sqlite|lib
+python3|3.14.5|python3-3.14.5.mlp|1adc8b6df3bd21e0d10997ca7d0a6a422ab98f40efc2fb8f3a4665cdd70efc27|9867264|The python language interpreter|mpdecimal sqlite|app
+ranger|1.9.3|ranger-1.9.3.mlp|11ba961c75772793fa0602ba78e38787cecd7aba2913c3b3677c22f95b46285a|516096|ranger is a console file manager with VI key bindings|mpdecimal python3 sqlite|app
+ripgrep|14.1.1|ripgrep-14.1.1.mlp|943d3499fb955875ba1cb08e09996dd7c1332c3736866291f39876c7971b0ff9|1331200|ripgrep is a line-oriented search tool that recursively searches your current directory for a regex ||app
+rsync|3.4.3|rsync-3.4.3.mlp|cf75452ded11f45fb5131c7f7d903af247477fa41dbc15617949f1a2f0acbd51|188416|File transfer program to keep remote files in sync|popt xxhash|app
+rtorrent|0.15.3|rtorrent-0.15.3.mlp|b64aba5f1487c7f0d5d9f5583a99a5507f7a64e51842eef8dd6261e7aed0ef1c|380928|BitTorrent Client using libtorrent|libtorrent|app
+ruby|4.0.3|ruby-4.0.3.mlp|08dffcd48a580c0e0ff9905a058d2df707846c885cdbc3062907ccae4c87477f|3403776|Object Oriented Scripting Language|gmp|app
+screen|5.0.1|screen-5.0.1.mlp|348329940a74deb58fddf9d1b834b662dde4d1fe567011465941159ef427bf1b|352256|Screen is a full-screen window manager that multiplexes a physical terminal between several processe||app
+sdl|1.2.15|sdl-1.2.15.mlp|1dc4e36a1f5d2857aceb93833743ccaecdb2f083c8bf110e1cdd65117cff0e4b|98304|Simple DirectMedia Layer - SDL is a library that allows programs portable low level access to a vide||lib
+sdl_mixer|d1725fcb7c4e987aeb7ecdc94cb8b6375b702170|sdl_mixer-d1725fcb7c4e987aeb7ecdc94cb8b6375b702170.mlp|a04d11aa628db89b0b2271af3973278424d21eaff6f3760665f135c24ad6c3ce|24576|SDL_mixer is a sample multi-channel audio mixer library|sdl|lib
+sdl_net|620b0ba7dd84a0fdbd4cc8ef1b2be1cc10f90ae3|sdl_net-620b0ba7dd84a0fdbd4cc8ef1b2be1cc10f90ae3.mlp|32e81374c29305c570717f7938be6f1a4d5cc4597fdef9cc9756f4e29a85262c|8192|SDL_net is a small, low-level, cross-platform network library, that can be used with the Simple Dire|sdl|lib
+smartmontools|7.5|smartmontools-7.5.mlp|91b8e6f0a7b46a4c43ee5eff9137dc718eeacde6c8fc73a6a3a9e03b30a27da2|528384|Control and monitor storage systems using S.M.A.R.T||app
+socat|1.8.0.3|socat-1.8.0.3.mlp|7df0871e2afcbe874d5c49a11595110d3f1aa99b3367cb8f0217f9af9b61d191|192512|Multipurpose socket relay program||app
+sqlite|3.51.3|sqlite-3.51.3.mlp|f4c1fa44e5e25956b58e1b913ddbb9175bd5abf55fa8c0f7cede4af75cc9a63e|937984|SQLite is a small C library that implements a self-contained, embeddable, zero-configuration SQL dat||app
+sysstat|12.7.5|sysstat-12.7.5.mlp|0a8150c7d5de1b0f02d22d8e546e32662e1dbf0a299265d356c9ce12eba9740d|327680|The sysstat utilities are a collection of performance monitoring tools for Linux||app
+tcl|8.6.15|tcl-8.6.15.mlp|dd737acc1810fbe81bd650db27a7524b4ce543d015017db16522c2b5ea8e63fa|909312|TCL (Tool Command Language) is a simple textual language|sqlite|app
+tcpdump|4.99.5|tcpdump-4.99.5.mlp|1442dee1c701166a09e8d8b3fa4793473470d126a51602dd71964b4ad56b1071|339968|A tool for network monitoring and data acquisition|libpcap|app
+tig|2.6.0|tig-2.6.0.mlp|6d40b9bfd2986edf528d79e12549231c099493a64b4b2d04f2a164fedcc7e4ef|163840|Tig is an ncurses-based text-mode interface for git||app
+tmux|3.6a|tmux-3.6a.mlp|bb3ddfbbb6e1618dc24c80d0cb9d9ad5d08a5d509f434cffb05a65730bc4fd1a|335872|tmux is a terminal multiplexer, it enables a number of terminals (or windows) to be accessed and con|libevent|app
+tor|0.4.9.9|tor-0.4.9.9.mlp|74312c591c9c06746217931419ff15875637b4f248997ba8f54351ddb618bae5|4034560|Tor is free software and an open network that helps you defend against traffic analysis, a form of n|libevent|app
+transmission|4.1.0|transmission-4.1.0.mlp|fa46c2119650d331caf543fd16f1b18d54c40239ee781c31e3384b8008b2e439|3870720|Transmission is a cross-platform BitTorrent client|libdeflate libevent libminiupnpc libnatpmp libutp|app
+unzip|6.0|unzip-6.0.mlp|ced8c4aef929bd70c26e158cdb5098e2f55a0eafa3557d5faaa35e3e8fed900e|61440|UnZip is an extraction utility for archives compressed in .zip format (also called "zipfiles")||app
+valgrind|3.26.0|valgrind-3.26.0.mlp|4b254602ad1ba2ea5deff5386862692b4eb83a70392f291d86a168d49d96e154|5652480|Tool for debugging and profiling Linux programs||app
+vim|9.1.2148|vim-9.1.2148.mlp|7df67af6470dfcd0a8768b3ceb034058c543df6048b7624434cb7777ece1e099|4009984|VIM Text editor||app
+wget|1.25.0|wget-1.25.0.mlp|21e1a14baf58f620552b5b2db1d21fc62ae838d02af3712c97b4a545279399f3|200704|Network utility to retrieve files from http, https and ftp||app
+wireguard-tools|1.0.20250521|wireguard-tools-1.0.20250521.mlp|5b05b043f35728dd288bea81564bfb633e68ec5310af3e4e205896efaafc95a3|36864|WireGuard is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography||app
+xapp_xcalc|1.1.2|xapp_xcalc-1.1.2.mlp|ac9385c67d2e9c37b220282569db0dbb32c103bc6af7b1570d7a062a87edccc4|16384|scientific calculator for X||app
+xapp_xclock|1.1.1|xapp_xclock-1.1.1.mlp|b741912b011878931a9ea5c7fbf3d046959df3315e0d58367ac289f3339b504d|16384|analog / digital clock for X||app
+xapp_xedit|1.2.4|xapp_xedit-1.2.4.mlp|036f3d465bb08d2945533879b3b5eb2b354cab62aac2fdb0c45d14ed480ec9b3|262144|simple text editor for X||app
+xapp_xev|1.2.6|xapp_xev-1.2.6.mlp|1a117f0bbbbbf40edec3ecc19462e86eb37d4b96c4a38e2eb620a11663faa631|12288|print contents of X events||app
+xapp_xeyes|1.3.1|xapp_xeyes-1.3.1.mlp|86faa27ecca5dbd5a4abc012198a4a28d9d6068495c9d264b22c79ebfb250859|12288|X.Org xeyes application||app
+xapp_xkill|1.0.6|xapp_xkill-1.0.6.mlp|2816e37084c497170a3d02d7b3c1b65b465f3eeeaee5ee0c9a81907b217bcaf7|8192|kill a client by its X resource||app
+xapp_xload|1.2.0|xapp_xload-1.2.0.mlp|79e2b48b931ed6819cd46acafaf0922231317b5e79933fa36b50bdbdc4fa1985|8192|system load average display for X||app
+xapp_xmag|1.0.8|xapp_xmag-1.0.8.mlp|126daa0ffc9c4d63d138dfbd2ce047aede0245977bbe1459ff19b156caffe216|16384|X.Org xmag application||app
+xfsprogs|6.11.0|xfsprogs-6.11.0.mlp|4beb0cca227a2cda3ec18a05d488f579f69c27daf127ba742f655b7a1e59eec2|3198976|The XFS file system utilities and libraries|inih liburcu|app
+xlib_libXpresent|1.0.2|xlib_libXpresent-1.0.2.mlp|3b7153006f4f3b1cfd6ce74197e4c7b1196a374c3a171a70eebbfdaf1cbaaa5a|8192|X.Org Xpresent library||lib
+xxhash|0.8.3|xxhash-0.8.3.mlp|c2088cb578e7c6845b2e251adceef6f0dc97147dc03b7e3882b1c778b183dbaf|28672|xxHash is an extremely fast hash algorithm, running at RAM speed limits||lib
+zip|3.0|zip-3.0.mlp|d14aabd31d1805b5dfd32cdf825bfd14693b40a31028c043fbe36e471fdb79ab|167936|Zip is a compression and file packaging/archive utility||app
+el7-runtime|7.9.2009|el7-runtime-7.9.2009.mlp|fe5d4a20217d4ccbffe200d34707997f95d53f35b6b8388bb131755342ffab30|10801152|RHEL/CentOS 7 (glibc 2.17) runtime for el7-run and el7-chroot||app
+firefox|153.6.0esr|firefox-153.6.0esr.mlp|ac08df2997a3e1af94e7ab35c4f00cf7ce7f019be2561eac0f3a661d8db344a4|96038912|Mozilla Firefox ESR web browser (official build)||app
