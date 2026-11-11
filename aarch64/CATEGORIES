@@ -24,7 +24,6 @@ gumbo-parser|Libraries
 hdparm|Disks
 hwdata|Libraries
 imagemagick|Desktop & media
-imlib2|Libraries
 inih|Libraries
 iotop|Command line
 iperf3|Internet & network
@@ -43,10 +42,8 @@ libassuan|Libraries
 libdeflate|Libraries
 libdisplay-info|Libraries
 libevent|Libraries
-libgcrypt|Libraries
 libglew|Libraries
 libglu|Libraries
-libgpg-error|Libraries
 libksba|Libraries
 liblinear|Libraries
 libminiupnpc|Libraries
@@ -92,7 +89,6 @@ p7zip|Command line
 patch|Development
 perl|Development
 php|Development
-popt|Libraries
 python-certifi|Libraries
 python-charset-normalizer|Libraries
 python-idna|Libraries
@@ -140,3 +136,8 @@ zip|Command line
 el7-runtime|System
 firefox|Internet & network
 chromium|Internet & network
+openjdk-17-jre|Development
+openjdk-21-jre|Development
+openjdk-25-jre|Development
+openjdk-8-jre|Development
+prismlauncher|Games

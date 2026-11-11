@@ -28,7 +28,6 @@ gumbo-parser 0.13.2 [Apache-2.0] https://codeberg.org/gumbo-parser/gumbo-parser/
 hdparm 9.65 [BSD-Style] https://downloads.sourceforge.net/project/hdparm/hdparm/hdparm-9.65.tar.gz
 hwdata 0.403 [GPL-2.0+, BSD-3-Clause, XFree86 1.0] https://github.com/vcrhonek/hwdata/archive/v0.403/hwdata-0.403.tar.gz
 imagemagick 7.1.2-23 [Apache-2.0] https://github.com/ImageMagick/ImageMagick/archive/7.1.2-23/imagemagick-7.1.2-23.tar.gz
-imlib2 1.12.5 [Imlib2] http://downloads.sourceforge.net/project/enlightenment/imlib2-src/1.12.5/imlib2-1.12.5.tar.xz
 inih 62 [BSD-3-Clause] https://github.com/benhoyt/inih/archive/r62/inih-62.tar.gz
 iotop 0.6 [GPL-2.0+] http://guichaz.free.fr/iotop/files/iotop-0.6.tar.gz
 iperf3 3.20 [BSD-3-Clause, BSD-2-Clause, MIT] https://downloads.es.net/pub/iperf/iperf-3.20.tar.gz
@@ -47,10 +46,8 @@ libassuan 3.0.2 [LGPL-2.1+ (library), GPL-3.0 (tests, doc)] https://gnupg.org/ft
 libdeflate 1.25 [MIT] https://github.com/ebiggers/libdeflate/releases/download/v1.25/libdeflate-1.25.tar.gz
 libdisplay-info 0.3.0 [MIT] https://gitlab.freedesktop.org/emersion/libdisplay-info/-/releases/0.3.0/downloads/libdisplay-info-0.3.0.tar.xz
 libevent 2.1.12 [BSD-3-Clause, OpenBSD] https://github.com/libevent/libevent/releases/download/release-2.1.12-stable/libevent-2.1.12-stable.tar.gz
-libgcrypt 1.12.0 [LGPL-2.1+] https://gnupg.org/ftp/gcrypt/libgcrypt/libgcrypt-1.12.0.tar.bz2
 libglew 2.2.0 [BSD-3-Clause, MIT] https://github.com/nigels-com/glew/releases/download/glew-2.2.0/glew-2.2.0.tgz
 libglu 9.0.3 [SGI-B-2.0] https://mesa.freedesktop.org/archive/glu/glu-9.0.3.tar.xz
-libgpg-error 1.61 [GPL-2.0+, LGPL-2.1+] https://www.gnupg.org/ftp/gcrypt/libgpg-error/libgpg-error-1.61.tar.bz2
 libksba 1.6.7 [LGPL-3.0+ or GPL-2.0+ (library, headers), GPL-3.0+ (manual, tests, build system)] https://gnupg.org/ftp/gcrypt/libksba/libksba-1.6.7.tar.bz2
 liblinear 2.49 [BSD-3-Clause] https://www.csie.ntu.edu.tw/~cjlin/liblinear/oldfiles/liblinear-2.49.tar.gz
 libminiupnpc 2.3.3 [BSD-3-Clause] http://miniupnp.free.fr/files/miniupnpc-2.3.3.tar.gz
@@ -96,7 +93,6 @@ p7zip 17.06 [LGPL-2.1+ with unRAR restriction] https://github.com/p7zip-project/
 patch 2.7.6 [GPL-3.0+] https://ftpmirror.gnu.org/patch/patch-2.7.6.tar.xz
 perl 5.42.2 [Artistic or GPL-1.0+] https://www.cpan.org/src/5.0/perl-5.42.2.tar.xz https://github.com/arsv/perl-cross/releases/download/1.6.4/perl-cross-1.6.4.tar.gz
 php 8.5.7 [PHP-3.01] https://www.php.net/distributions/php-8.5.7.tar.xz
-popt 1.19 [MIT] http://ftp.rpm.org/popt/releases/popt-1.x/popt-1.19.tar.gz
 python-certifi 2026.4.22 [ISC (Python code), MPL-2.0 (cacert.pem)] https://files.pythonhosted.org/packages/25/ee/6caf7a40c36a1220410afe15a1cc64993a1f864871f698c0f93acb72842a/certifi-2026.4.22.tar.gz
 python-charset-normalizer 3.4.4 [MIT] https://files.pythonhosted.org/packages/13/69/33ddede1939fdd074bce5434295f38fae7136463422fe4fd3e0e89b98062/charset_normalizer-3.4.4.tar.gz
 python-idna 3.11 [BSD-3-Clause] https://files.pythonhosted.org/packages/6f/6d/0703ccc57f3a7233505399edb88de3cbd678da106337b9fcde432b65ed60/idna-3.11.tar.gz
