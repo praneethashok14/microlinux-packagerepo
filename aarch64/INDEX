@@ -85,7 +85,6 @@ ntfs-3g|2022.10.3|ntfs-3g-2022.10.3.mlp|fb6abf8a0654e3509216fd96340bbdeeaf99e57d
 nvme|2.15|nvme-2.15.mlp|824095d6e9142e350b966c6f372fabac2c08c9e4edf42d055a07ade30137f3ca|425984|NVME utility, a utility for interacting with standard NVM Express (optimized PCI Express SSD interfa|json-c libnvme mpdecimal python3 sqlite|app
 openjpeg|2.5.4|openjpeg-2.5.4.mlp|628e18a7ef14a9de4ac97ac72d7b664efb51157d74f368578a75150dda360bca|204800|The OpenJPEG library is an open-source JPEG 2000 codec written in C|lcms2|lib
 openvpn|2.6.20|openvpn-2.6.20.mlp|700f56314048747b8e00cf17fee40ec88d91fa9b487aff640b8c949389d2d858|286720|OpenVPN is a full-featured SSL VPN solution which can accommodate a wide range of configurations, in||app
-p7zip|17.06|p7zip-17.06.mlp|996cce0ba2578364883041bcf80b55a7c3bad08164199d5a720ce0474acf4697|303104|p7zip is a quick port of the command line version of 7-zip for Unix (see http://www.7-zip.org)||app
 patch|2.7.6|patch-2.7.6.mlp|dcb8f95945b23e772992ac04ab4f1c20bd7b2a38b2d1b1952e0db850fa7b6afc|69632|Take patch files (containing difference listings) and apply them to original files, producing patche||app
 perl|5.42.2|perl-5.42.2.mlp|81e26f4bbc3b083fe14d2f44b008c7d0b187f55567087e2a184c3eb26dc7b5f8|7643136|Larry Wall's Practical Extraction and Report Language An interpreted scripting language, known among||app
 php|8.5.7|php-8.5.7.mlp|1f0b732c92e8ddac092c48ed720f7794d8c4692a68c09d882aca9f90dab1f18d|2093056|PHP  is a widely-used general-purpose scripting language that is especially suited for Web developme||app
@@ -116,8 +115,6 @@ tig|2.6.0|tig-2.6.0.mlp|db05bdb76f67a32b4e51066dcd3758673f731630204ce9fdecd17f0a
 tmux|3.6a|tmux-3.6a.mlp|d25fc89bf4d64b702149ed706c123a1aa716b509651bb29173d50cae91a47be6|315392|tmux is a terminal multiplexer, it enables a number of terminals (or windows) to be accessed and con|libevent|app
 tor|0.4.9.9|tor-0.4.9.9.mlp|241c626a2428cb1250ba0a058d30e062e27b16ec60a341d6ca7263960a3e3ce1|3989504|Tor is free software and an open network that helps you defend against traffic analysis, a form of n|libevent|app
 transmission|4.1.0|transmission-4.1.0.mlp|4514d059f78f07d79261af3fa46f5d364cbd01ee59c84a883271ad751d2dbaf2|3575808|Transmission is a cross-platform BitTorrent client|libdeflate libevent libminiupnpc libnatpmp libutp|app
-unzip|6.0|unzip-6.0.mlp|210459e83194d92fcb4a5b8d0737859b490c7fa53b6b5ca704dd387e2170a90d|57344|UnZip is an extraction utility for archives compressed in .zip format (also called "zipfiles")||app
-valgrind|3.26.0|valgrind-3.26.0.mlp|5845cfdf521285949d2f20807f33107b48ed87bf8c0b86eba0f36679681b1d92|4521984|Tool for debugging and profiling Linux programs||app
 vim|9.1.2148|vim-9.1.2148.mlp|fdc61260c699e26fa3b490cf496627b2e5aa14328de4e235527fdeb67775125e|3928064|VIM Text editor||app
 wget|1.25.0|wget-1.25.0.mlp|01739fbe350cce4efeca6704acee7243e49e980ead54e3949f2f4e977be38d5b|188416|Network utility to retrieve files from http, https and ftp||app
 wireguard-tools|1.0.20250521|wireguard-tools-1.0.20250521.mlp|19c918003a50db501e89b3a50e083de100bdd1ab4804c181cd526afe06d80ab2|40960|WireGuard is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography||app
@@ -132,7 +129,6 @@ xapp_xmag|1.0.8|xapp_xmag-1.0.8.mlp|9c9980b8cc90ffe073e18028a5ed117d0cf283d01afb
 xfsprogs|6.11.0|xfsprogs-6.11.0.mlp|d0d407bb1e42d710d900d3c14be20c29540e33f1ac332bbc8db6c7890a07e2fc|2682880|The XFS file system utilities and libraries|inih liburcu|app
 xlib_libXpresent|1.0.2|xlib_libXpresent-1.0.2.mlp|4fdd54139c456cacc2aecadd96864420ae451d7709ff620d22e108bdc6187e08|8192|X.Org Xpresent library||lib
 xxhash|0.8.3|xxhash-0.8.3.mlp|ecefba1eb2273d104eb8b756e7058219b847029d94bec015871028fe58300ee0|24576|xxHash is an extremely fast hash algorithm, running at RAM speed limits||lib
-zip|3.0|zip-3.0.mlp|fa37ce1d022aa4321cc1ec9467252c90582cfde1403381282e66a0d001c7f3a3|159744|Zip is a compression and file packaging/archive utility||app
 el7-runtime|7.9.2009|el7-runtime-7.9.2009.mlp|4167fb6677e3304b7aa31818046733f48bb7f617127fbcbb4434c9d6da6a7168|9703424|RHEL/CentOS 7 (glibc 2.17) runtime for el7-run and el7-chroot||app
 firefox|153.6.0esr-2|firefox-153.6.0esr-2.mlp|42b4c1b96382fc6dc0e29938d616ecc82faffee6e53cd9a8cf71ae4d3975d183|91865088|Mozilla Firefox ESR web browser (official build)||app
 chromium|156.0.8078.79|chromium-156.0.8078.79.mlp|b025e021daf832a9692f781d52773d29b97d2019e2091eee0c6134b481b8c414|135999488|Chromium web browser (ungoogled-chromium: without Google services)|cups libnspr libnss sqlite|app

@@ -87,7 +87,6 @@ ntfs-3g|Disks
 nvme|Disks
 openjpeg|Libraries
 openvpn|Internet & network
-p7zip|Command line
 patch|Development
 perl|Development
 php|Development
@@ -118,8 +117,6 @@ tig|Development
 tmux|Command line
 tor|Internet & network
 transmission|Internet & network
-unzip|Command line
-valgrind|Development
 vim|Editors
 wget|Command line
 wireguard-tools|Internet & network
@@ -134,7 +131,6 @@ xapp_xmag|Desktop & media
 xfsprogs|Disks
 xlib_libXpresent|Libraries
 xxhash|Libraries
-zip|Command line
 el7-runtime|System
 firefox|Internet & network
 chromium|Internet & network
