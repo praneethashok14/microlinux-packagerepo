@@ -24,7 +24,6 @@ gnuplot|6.0.4|gnuplot-6.0.4.mlp|8bb5ff7f240df4fc939d1ed9df5c0f7516e1a2aec5513c6a
 gptfdisk|1.0.10|gptfdisk-1.0.10.mlp|1b95ae98c1b194e107a44a7dfac36c73bff7a10d0c2f5e6e32a26203de109c7a|135168|GPT fdisk (consisting of the gdisk and sgdisk programs) is a text-mode partitioning tool that works ||app
 gumbo-parser|0.13.2|gumbo-parser-0.13.2.mlp|afcb982a62ee7ec9966cf897441d965781696d5b8376e9a55785e71f67cfa799|98304|Gumbo is an implementation of the HTML5 parsing algorithm implemented as a pure C99 library with no ||lib
 hdparm|9.65|hdparm-9.65.mlp|fb49b16f90d41b66dbbdf6ccbcb3642ece0d0a7855a5b475ee24d7d5b6739d66|45056|hdparm - get/set ATA/SATA drive parameters under Linux||app
-hwdata|0.403|hwdata-0.403.mlp|4f910c5b49e2f7a088af788cd2a489ccc729e948dfc470465ae84c9f011de8e3|548864|Various hardware identification and configuration data||lib
 imagemagick|7.1.2-23|imagemagick-7.1.2-23.mlp|b6f1318309ad064c7b74eaf08e4c894b30917bd2051c4a146cfb851d67b1c946|1695744|ImageMagick(R) is a software suite to create, edit, and compose bitmap images|lcms2|app
 inih|62|inih-62.mlp|25d26ab0e0d8acacde645e0f596e66d9c443e342e1387359c5c08ccb23db85b3|12288|inih (INI Not Invented Here) is a simple .INI file parser written in C||lib
 iotop|0.6|iotop-0.6.mlp|0d32a9f1a72cefdc6a687667c25a4c44fa8749498fe93313d6b9186f5edd04e4|57344|iotop does for I/O usage what top does for CPU usage|mpdecimal python3 sqlite|app
@@ -42,7 +41,6 @@ libargon2|20190702|libargon2-20190702.mlp|4ae7956179dac0c8b30d77e83aad23d4c475d0
 libass|0.17.4|libass-0.17.4.mlp|18ba1282f57b190c2142d71528c38e2e0bee88442922309dcc682d6b89db6fa1|81920|libass is a portable subtitle renderer for the ASS/SSA (Advanced Substation Alpha/Substation Alpha) ||lib
 libassuan|3.0.2|libassuan-3.0.2.mlp|0e16d03d47386d5e54c6906682c4641e2bcfe548cdbcf206aa1a5c4a6d555d7e|32768|Libassuan is a small library implementing the so-called Assuan protocol||lib
 libdeflate|1.25|libdeflate-1.25.mlp|b4d773808c1e9b1915470adf82653ad8235e383675deaeb2481ce1c7284d5651|53248|Libdeflate is a heavily optimized library for DEFLATE/zlib/ gzip compression and decompression||lib
-libdisplay-info|0.3.0|libdisplay-info-0.3.0.mlp|39f70767d5b88e7626c60b7c5f05890fff3fb4b6d36a00a422d4f25f8825f782|86016|EDID and DisplayID library|hwdata|lib
 libevent|2.1.12|libevent-2.1.12.mlp|9540df099fa27fdd6f995a57a1926ac8d0c65bcf10b646ef2fb5e5edb77093d8|253952|Userspace library for handling asynchronous notifications||lib
 libglew|2.2.0|libglew-2.2.0.mlp|ab3481adab24dfe5d3c81977fdd6f35ec6a096038a17f0a0c4ea6f0c448149f0|139264|The OpenGL Extension Wrangler Library (GLEW) is a cross-platform C/C++ extension loading library||lib
 libglu|9.0.3|libglu-9.0.3.mlp|5e148ee0a504634dd90184f3e4910c3c26cea2c98106660ff769780fd6f55300|139264|Mesa OpenGL Utility library||lib
@@ -74,7 +72,7 @@ ml-software|1.0|ml-software-1.0.mlp|0877570cbea9c5c19fdc153491918411d884fdcc0699
 mpdecimal|4.0.0|mpdecimal-4.0.0.mlp|f0a6d54a1128a8f78f8a880e88ef54b98a9c491d84a0e865954f1c4bfbcaec58|65536|mpdecimal is a package for correctly-rounded arbitrary precision decimal floating point arithmetic||lib
 mpfr|4.1.1|mpfr-4.1.1.mlp|4e748ff2b3f5df9d32d27ddd7cde362c521f5a7a588d453ac224a0359896e814|176128|C library for multiple-precision floating-point computations with exact rounding|gmp|lib
 mpg123|1.33.4|mpg123-1.33.4.mlp|f81336379f72dffd404d9dc307dbe6c60506ca2d62ee20d4a8d747a7ecb03c7a|249856|Fast, free and portable MPEG audio player for Unix|sdl|app
-mpv|0.40.0|mpv-0.40.0.mlp|010da40316b50d657c45c69e020c75ed846b9114fe8e49bb47fa59a6c44cc12f|1470464|mpv is a fork of mplayer2 and MPlayer|ffmpeg hwdata lcms2 libass libdisplay-info libplacebo openjpeg xlib_libXpresent|app
+mpv|0.40.0|mpv-0.40.0.mlp|6ac9a0347c274178a32e5ab906b9630595d97fb3d182b47d74c176a6178a5960|1470464|mpv is a fork of mplayer2 and MPlayer|ffmpeg lcms2 libass libplacebo openjpeg xlib_libXpresent|app
 mtr|0.95|mtr-0.95.mlp|f2da979dab299ef333107bef3a292c6d14855c929c93056a59340fcd0fcd2493|45056|mtr combines the functionality of the 'traceroute' and 'ping' programs in a single network diagnosti||app
 mupdf|1.23.9|mupdf-1.23.9.mlp|acec58e0730d31c13557368cab0040fa24f1cfa618fe0374e1a5eb0e81ba48be|29351936|MuPDF is a lightweight PDF, XPS, and E-book viewer|gumbo-parser jbig2dec lcms2 openjpeg|app
 ncdu|1.22|ncdu-1.22.mlp|a17411aa147f9a93d3b1bbc3ce9595e8b1be31343cb95c3164286ccda1a772d8|32768|ncdu is a disk usage analyzer with an ncurses interface||app
@@ -131,6 +129,8 @@ xapp_xmag|1.0.8|xapp_xmag-1.0.8.mlp|126daa0ffc9c4d63d138dfbd2ce047aede0245977bbe
 xfsprogs|6.11.0|xfsprogs-6.11.0.mlp|4beb0cca227a2cda3ec18a05d488f579f69c27daf127ba742f655b7a1e59eec2|3198976|The XFS file system utilities and libraries|inih liburcu|app
 xlib_libXpresent|1.0.2|xlib_libXpresent-1.0.2.mlp|3b7153006f4f3b1cfd6ce74197e4c7b1196a374c3a171a70eebbfdaf1cbaaa5a|8192|X.Org Xpresent library||lib
 xxhash|0.8.3|xxhash-0.8.3.mlp|c2088cb578e7c6845b2e251adceef6f0dc97147dc03b7e3882b1c778b183dbaf|28672|xxHash is an extremely fast hash algorithm, running at RAM speed limits||lib
+debian-runtime|13.7|debian-runtime-13.7.mlp|2c50a6f7ffca870c3525599841d1d343983bc6126524e2140caa6181a9b64014|20791296|Debian 13 (glibc 2.41) runtime for deb-run and deb-chroot||app
+el10-runtime|10.2|el10-runtime-10.2.mlp|eff1a1ba8f4bda98b660503bb568a9326a551b24434fe8ef0cb74f0dc454b59f|24268800|RHEL 10 compatible (AlmaLinux 10, glibc 2.39) runtime for el10-run and el10-chroot||app
 el7-runtime|7.9.2009|el7-runtime-7.9.2009.mlp|fe5d4a20217d4ccbffe200d34707997f95d53f35b6b8388bb131755342ffab30|10801152|RHEL/CentOS 7 (glibc 2.17) runtime for el7-run and el7-chroot||app
 firefox|153.6.0esr-2|firefox-153.6.0esr-2.mlp|2c10c3d5429c3b4a36817faacf5d085352e847620d8ab039d3729dfebd0633c4|102084608|Mozilla Firefox ESR web browser (official build)||app
 chromium|156.0.8078.79|chromium-156.0.8078.79.mlp|965b2e87b0990f3734b865ec31b8032d0a738e525031eccce208eb6f8f56d6cb|154329088|Chromium web browser (ungoogled-chromium: without Google services)|cups libnspr libnss sqlite|app

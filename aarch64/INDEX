@@ -129,6 +129,8 @@ xapp_xmag|1.0.8|xapp_xmag-1.0.8.mlp|9c9980b8cc90ffe073e18028a5ed117d0cf283d01afb
 xfsprogs|6.11.0|xfsprogs-6.11.0.mlp|d0d407bb1e42d710d900d3c14be20c29540e33f1ac332bbc8db6c7890a07e2fc|2682880|The XFS file system utilities and libraries|inih liburcu|app
 xlib_libXpresent|1.0.2|xlib_libXpresent-1.0.2.mlp|4fdd54139c456cacc2aecadd96864420ae451d7709ff620d22e108bdc6187e08|8192|X.Org Xpresent library||lib
 xxhash|0.8.3|xxhash-0.8.3.mlp|ecefba1eb2273d104eb8b756e7058219b847029d94bec015871028fe58300ee0|24576|xxHash is an extremely fast hash algorithm, running at RAM speed limits||lib
+debian-runtime|13.7|debian-runtime-13.7.mlp|b30a5dbee6e97d8807e48e895661fbff80abe02fe507d00c1769be4361d5d6dd|19660800|Debian 13 (glibc 2.41) runtime for deb-run and deb-chroot||app
+el10-runtime|10.2|el10-runtime-10.2.mlp|ab2f751b8c9174a8fb7883ed94ebbba728ae461d9da0c2f231309ec8b1385778|22020096|RHEL 10 compatible (AlmaLinux 10, glibc 2.39) runtime for el10-run and el10-chroot||app
 el7-runtime|7.9.2009|el7-runtime-7.9.2009.mlp|4167fb6677e3304b7aa31818046733f48bb7f617127fbcbb4434c9d6da6a7168|9703424|RHEL/CentOS 7 (glibc 2.17) runtime for el7-run and el7-chroot||app
 firefox|153.6.0esr-2|firefox-153.6.0esr-2.mlp|42b4c1b96382fc6dc0e29938d616ecc82faffee6e53cd9a8cf71ae4d3975d183|91865088|Mozilla Firefox ESR web browser (official build)||app
 chromium|156.0.8078.79|chromium-156.0.8078.79.mlp|b025e021daf832a9692f781d52773d29b97d2019e2091eee0c6134b481b8c414|135999488|Chromium web browser (ungoogled-chromium: without Google services)|cups libnspr libnss sqlite|app

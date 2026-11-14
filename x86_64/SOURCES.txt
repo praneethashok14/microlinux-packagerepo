@@ -28,7 +28,6 @@ gnuplot 6.0.4 [gnuplot license (open source)] http://downloads.sourceforge.net/p
 gptfdisk 1.0.10 [GPL-2.0+] http://downloads.sourceforge.net/sourceforge/gptfdisk/gptfdisk-1.0.10.tar.gz
 gumbo-parser 0.13.2 [Apache-2.0] https://codeberg.org/gumbo-parser/gumbo-parser/archive/0.13.2.tar.gz
 hdparm 9.65 [BSD-Style] https://downloads.sourceforge.net/project/hdparm/hdparm/hdparm-9.65.tar.gz
-hwdata 0.403 [GPL-2.0+, BSD-3-Clause, XFree86 1.0] https://github.com/vcrhonek/hwdata/archive/v0.403/hwdata-0.403.tar.gz
 imagemagick 7.1.2-23 [Apache-2.0] https://github.com/ImageMagick/ImageMagick/archive/7.1.2-23/imagemagick-7.1.2-23.tar.gz
 inih 62 [BSD-3-Clause] https://github.com/benhoyt/inih/archive/r62/inih-62.tar.gz
 iotop 0.6 [GPL-2.0+] http://guichaz.free.fr/iotop/files/iotop-0.6.tar.gz
@@ -46,7 +45,6 @@ libargon2 20190702 [CC0-1.0 or Apache-2.0] https://github.com/P-H-C/phc-winner-a
 libass 0.17.4 [ISC] https://github.com/libass/libass/releases/download/0.17.4/libass-0.17.4.tar.xz
 libassuan 3.0.2 [LGPL-2.1+ (library), GPL-3.0 (tests, doc)] https://gnupg.org/ftp/gcrypt/libassuan/libassuan-3.0.2.tar.bz2
 libdeflate 1.25 [MIT] https://github.com/ebiggers/libdeflate/releases/download/v1.25/libdeflate-1.25.tar.gz
-libdisplay-info 0.3.0 [MIT] https://gitlab.freedesktop.org/emersion/libdisplay-info/-/releases/0.3.0/downloads/libdisplay-info-0.3.0.tar.xz
 libevent 2.1.12 [BSD-3-Clause, OpenBSD] https://github.com/libevent/libevent/releases/download/release-2.1.12-stable/libevent-2.1.12-stable.tar.gz
 libglew 2.2.0 [BSD-3-Clause, MIT] https://github.com/nigels-com/glew/releases/download/glew-2.2.0/glew-2.2.0.tgz
 libglu 9.0.3 [SGI-B-2.0] https://mesa.freedesktop.org/archive/glu/glu-9.0.3.tar.xz

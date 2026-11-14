@@ -24,7 +24,6 @@ gnuplot|Desktop & media
 gptfdisk|Disks
 gumbo-parser|Libraries
 hdparm|Disks
-hwdata|Libraries
 imagemagick|Desktop & media
 inih|Libraries
 iotop|Command line
@@ -42,7 +41,6 @@ libargon2|Libraries
 libass|Libraries
 libassuan|Libraries
 libdeflate|Libraries
-libdisplay-info|Libraries
 libevent|Libraries
 libglew|Libraries
 libglu|Libraries
@@ -131,6 +129,8 @@ xapp_xmag|Desktop & media
 xfsprogs|Disks
 xlib_libXpresent|Libraries
 xxhash|Libraries
+debian-runtime|System
+el10-runtime|System
 el7-runtime|System
 firefox|Internet & network
 chromium|Internet & network
