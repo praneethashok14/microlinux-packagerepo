@@ -96,6 +96,7 @@ python-requests|Development
 python-setuptools|Libraries
 python-urllib3|Libraries
 python3|Development
+qt5-base|System
 ranger|Command line
 ripgrep|Command line
 rsync|Command line

@@ -68,7 +68,7 @@ make|4.4.1|make-4.4.1.mlp|6a7d2aeacc109c53ade33d5146788a2e047fc1eba90ca7fcb12ce5
 mc|4.8.33|mc-4.8.33.mlp|024b0b16152081b85fcc12acedd8dbbce06596132887b32d86a9822f3d157af4|614400|GNU Midnight Commander is a visual file manager, licensed under GNU General Public License||app
 mdadm|4.3|mdadm-4.3.mlp|ea3027e71029dbf0c5b2710395848e7d75b4bb0aec88361a9594f5c8c428d322|368640|Utility for managing Linux Software RAID arrays||app
 mesa3d-demos|9.0.0|mesa3d-demos-9.0.0.mlp|e40a4e429a3b465b8b476781cb86b1299a5f340bdbc46a65f62a4a5395e9160b|1273856|OpenGL demos from the Mesa 3D project|libglew libglu|app
-ml-software|1.1|ml-software-1.1.mlp|5b45101b03b425555453704b8eab5641ab18aa86fa8451fe7018fc23b465bb3e|16384|Graphical front end for mlpkg: browse the package repository by category, search, install, remove an||app
+ml-software|1.2|ml-software-1.2.mlp|62f89d534ea26fb3c5418db07f73a0bf234c0b60e8f46bf6c61111df79902c2b|16384|Graphical front end for mlpkg: browse the package repository by category, search, install, remove an||app
 mpdecimal|4.0.0|mpdecimal-4.0.0.mlp|f0a6d54a1128a8f78f8a880e88ef54b98a9c491d84a0e865954f1c4bfbcaec58|65536|mpdecimal is a package for correctly-rounded arbitrary precision decimal floating point arithmetic||lib
 mpfr|4.1.1|mpfr-4.1.1.mlp|4e748ff2b3f5df9d32d27ddd7cde362c521f5a7a588d453ac224a0359896e814|176128|C library for multiple-precision floating-point computations with exact rounding|gmp|lib
 mpg123|1.33.4|mpg123-1.33.4.mlp|f81336379f72dffd404d9dc307dbe6c60506ca2d62ee20d4a8d747a7ecb03c7a|249856|Fast, free and portable MPEG audio player for Unix|sdl|app
@@ -96,6 +96,7 @@ python-requests|2.33.1|python-requests-2.33.1.mlp|922c16d8633b27117186e8f14fc2a4
 python-setuptools|80.9.0|python-setuptools-80.9.0.mlp|83a47dfb15668be8e1b3c039a469984397125efc4d7f83b2ce48c8f2868803ed|2461696|Download, build, install, upgrade, and uninstall Python packages|mpdecimal python3 sqlite|lib
 python-urllib3|2.7.0|python-urllib3-2.7.0.mlp|a4c99be855d5482854a166e7e03ee0436121cc129c31168e164234e8e7a38bbc|286720|Python HTTP library with thread-safe connection pooling, file post support, sanity friendly, and mor|mpdecimal python3 sqlite|lib
 python3|3.14.5|python3-3.14.5.mlp|1adc8b6df3bd21e0d10997ca7d0a6a422ab98f40efc2fb8f3a4665cdd70efc27|9867264|The python language interpreter|mpdecimal sqlite|app
+qt5-base|5.15.19|qt5-base-5.15.19.mlp|02aab46bcd90ec3c24640cb58b38438fbffd1e215d1d0686fa03908e1450dec8|7106560|Qt 5.15 base libraries for programs made for Qt 5: libQt5Core, libQt5Gui, libQt5Widgets, Network, DB||app
 ranger|1.9.3|ranger-1.9.3.mlp|11ba961c75772793fa0602ba78e38787cecd7aba2913c3b3677c22f95b46285a|516096|ranger is a console file manager with VI key bindings|mpdecimal python3 sqlite|app
 ripgrep|14.1.1|ripgrep-14.1.1.mlp|943d3499fb955875ba1cb08e09996dd7c1332c3736866291f39876c7971b0ff9|1331200|ripgrep is a line-oriented search tool that recursively searches your current directory for a regex ||app
 rsync|3.4.3|rsync-3.4.3.mlp|59b32e0bd35e3406b064a64dc6b3496f090f970d39c9a213965a09e26c990229|188416|File transfer program to keep remote files in sync|xxhash|app

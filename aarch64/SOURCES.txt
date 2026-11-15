@@ -72,7 +72,7 @@ make 4.4.1 [GPL-3.0+] https://ftpmirror.gnu.org/make/make-4.4.1.tar.lz
 mc 4.8.33 [GPL-3.0+] http://ftp.midnight-commander.org/mc-4.8.33.tar.xz
 mdadm 4.3 [GPL-2.0+] https://cdn.kernel.org/pub/linux/utils/raid/mdadm/mdadm-4.3.tar.xz
 mesa3d-demos 9.0.0 [MIT] https://archive.mesa3d.org/demos/mesa-demos-9.0.0.tar.xz
-ml-software 1.1 [MIT] local+/mnt/lima-mlbuild/src/external/package/ml-software/src/ml-software-1.1.tar.gz
+ml-software 1.2 [MIT] local+/mnt/lima-mlbuild/src/external/package/ml-software/src/ml-software-1.2.tar.gz
 mpdecimal 4.0.0 [BSD-2-Clause] http://www.bytereef.org/software/mpdecimal/releases/mpdecimal-4.0.0.tar.gz
 mpfr 4.1.1 [LGPL-3.0+] http://www.mpfr.org/mpfr-4.1.1/mpfr-4.1.1.tar.xz
 mpg123 1.33.4 [LGPL-2.1] https://downloads.sourceforge.net/project/mpg123/mpg123/1.33.4/mpg123-1.33.4.tar.bz2
@@ -100,6 +100,7 @@ python-requests 2.33.1 [Apache-2.0] https://files.pythonhosted.org/packages/5f/a
 python-setuptools 80.9.0 [MIT] https://files.pythonhosted.org/packages/18/5d/3bf57dcd21979b887f014ea83c24ae194cfcd12b9e0fda66b957c69d1fca/setuptools-80.9.0.tar.gz
 python-urllib3 2.7.0 [MIT] https://files.pythonhosted.org/packages/53/0c/06f8b233b8fd13b9e5ee11424ef85419ba0d8ba0b3138bf360be2ff56953/urllib3-2.7.0.tar.gz
 python3 3.14.5 [Python-2.0, others] https://python.org/ftp/python/3.14.5/Python-3.14.5.tar.xz
+qt5-base 5.15.19 [GPL-2.0+ or LGPL-3.0, GPL-3.0 with exception(tools)] https://download.qt.io/archive/qt/5.15/5.15.19/submodules/qtbase-everywhere-opensource-src-5.15.19.tar.xz
 ranger 1.9.3 [GPL-3.0] https://ranger.github.io/ranger-1.9.3.tar.gz
 ripgrep 14.1.1 [MIT , vendored dependencies licenses probably not listed] https://github.com/burntsushi/ripgrep/archive/14.1.1/ripgrep-14.1.1-cargo4.tar.gz
 rsync 3.4.3 [GPL-3.0+ with exceptions] https://rsync.samba.org/ftp/rsync/src/rsync-3.4.3.tar.gz
